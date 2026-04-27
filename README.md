@@ -1,5 +1,7 @@
 # NovaTech SaaS — Marketing Ops Analysis
-**Portfolio Project | Karen Beltrán | 2026*
+**Portfolio Project | Karen Beltrán | 2025**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-blue) ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey) ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Python](https://img.shields.io/badge/Python-Data%20Prep-green)
 
 ---
 
