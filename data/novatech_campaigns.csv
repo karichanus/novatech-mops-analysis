@@ -1,0 +1,21 @@
+campaign_id,channel,campaign_name,budget_usd,start_date,end_date,leads_generated
+C001,Google Ads,Brand Search LATAM Q1,12000,2024-01-05,2024-03-31,38
+C002,Google Ads,Competitor Keywords Q2,18000,2024-04-01,2024-06-30,32
+C003,Google Ads,Retargeting Trial Users,8000,2024-03-01,2024-12-31,29
+C004,Google Ads,Brand Search LATAM Q3,14000,2024-07-01,2024-09-30,26
+C005,LinkedIn Ads,Decision Makers SaaS,22000,2024-01-15,2024-04-30,27
+C006,LinkedIn Ads,IT Directors Mid Market,19000,2024-05-01,2024-08-31,31
+C007,LinkedIn Ads,Founders Startups LATAM,11000,2024-02-01,2024-05-31,30
+C008,LinkedIn Ads,Enterprise CXO Sequence,30000,2024-06-01,2024-12-31,30
+C009,Email Marketing,Nurture Cold Leads Q1,2500,2024-01-10,2024-03-31,22
+C010,Email Marketing,Re-engagement Churned,1800,2024-02-15,2024-05-15,21
+C011,Email Marketing,Product Update Newsletter,1200,2024-01-01,2024-12-31,25
+C012,Email Marketing,Nurture Mid Funnel Q2,3000,2024-04-01,2024-06-30,19
+C013,Email Marketing,Upsell Starter to Growth,2000,2024-07-01,2024-12-31,28
+C014,Webinar,Masterclass PM Efficiency Q1,5000,2024-02-20,2024-02-20,21
+C015,Webinar,Demo Day Enterprise Features,6500,2024-04-10,2024-04-10,20
+C016,Webinar,Workshop Agile for Teams,4000,2024-06-05,2024-06-05,13
+C017,Webinar,Partner Webinar HubSpot,3500,2024-09-18,2024-09-18,17
+C018,Organic / SEO,SEO Content Cluster,3000,2024-01-01,2024-12-31,48
+C019,Organic / SEO,Link Building Q1-Q2,4500,2024-01-01,2024-06-30,28
+C020,Organic / SEO,Technical SEO Improvements,6000,2024-03-01,2024-08-31,45

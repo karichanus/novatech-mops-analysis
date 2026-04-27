@@ -1,0 +1,480 @@
+lead_id,created_date,first_name,last_name,email,job_title,company,industry,employee_count,country,source,campaign_id,converted,converted_date
+L0001,2024-11-02,Sofia,Rodriguez,sofia.rodriguez@fastsystems.com,Head of Operations,Fast Systems,Finance,1-10,Mexico,LinkedIn Ads,C006,False,
+L0002,2024-07-10,Sofia,Sanchez,sofia.sanchez@flexstudio.co,Head of Operations,Flex Studio,Consulting,51-200,Colombia,Webinar,C015,True,2024-08-02
+L0003,2024-10-12,Roberto,Ramirez,roberto.ramirez@alphaagency.mx,Head of Operations,Alpha Agency,SaaS,1-10,Colombia,LinkedIn Ads,C007,False,
+L0004,2024-08-14,Isabella,Martinez,isabella.martinez@novalabs.com,VP of Product,Nova Labs,Manufacturing,51-200,Mexico,Google Ads,C002,False,
+L0005,2024-03-14,Fernanda,Gonzalez,fernanda.gonzalez@bluehub.io,CEO,Blue Hub,SaaS,11-50,Spain,LinkedIn Ads,C005,False,
+L0006,2024-03-05,Carlos,Martinez,carlos.martinez@openworks.mx,Founder,Open Works,Manufacturing,11-50,Mexico,LinkedIn Ads,C008,False,
+L0007,2024-03-30,Sofia,Lopez,sofia.lopez@nextdigital.io,IT Director,Next Digital,EdTech,500+,Mexico,Google Ads,C003,False,
+L0008,2024-02-07,Natalia,Garcia,natalia.garcia@peaksolution.io,CEO,Peak Solutions,Manufacturing,11-50,Colombia,Organic / SEO,C018,False,
+L0009,2024-02-17,Roberto,Perez,roberto.perez@boldagency.mx,CEO,Bold Agency,E-commerce,1-10,Spain,Organic / SEO,C020,False,
+L0010,2024-04-21,Fernanda,Hernandez,fernanda.hernandez@brightlabs.io,Head of Operations,Bright Labs,EdTech,51-200,Mexico,LinkedIn Ads,C007,False,
+L0011,2024-09-01,Jorge,Hernandez,jorge.hernandez@corepartners.mx,Project Manager,Core Partners,Finance,11-50,Mexico,LinkedIn Ads,C007,False,
+L0012,2024-06-25,Luis,Lopez,luis.lopez@flexpartners.mx,Marketing Manager,Flex Partners,EdTech,1-10,Spain,LinkedIn Ads,C006,False,
+L0013,2024-07-28,Fernanda,Garcia,fernanda.garcia@alphahub.mx,Marketing Manager,Alpha Hub,Digital Agency,201-500,Argentina,Webinar,C015,True,2024-08-07
+L0014,2024-05-15,Paola,Ramirez,paola.ramirez@nextpartners.co,IT Director,Next Partners,Consulting,51-200,Chile,Organic / SEO,C018,True,2024-05-16
+L0015,2024-01-30,Ricardo,Torres,ricardo.torres@ecotech.mx,Marketing Manager,Eco Tech,Manufacturing,11-50,Colombia,Google Ads,C001,False,
+L0016,2024-06-17,Paola,Perez,paola.perez@corehub.mx,VP of Product,Core Hub,E-commerce,1-10,Mexico,Google Ads,C004,False,
+L0017,2024-04-04,Natalia,Sanchez,natalia.sanchez@smartagency.com,Founder,Smart Agency,Finance,51-200,Mexico,Email Marketing,C012,True,2024-04-30
+L0018,2024-10-18,Andrea,Torres,andrea.torres@peaksystems.co,Project Manager,Peak Systems,SaaS,51-200,Colombia,Email Marketing,C009,True,2024-11-06
+L0019,2024-10-11,Paola,Garcia,paola.garcia@opensystems.mx,VP of Product,Open Systems,Consulting,51-200,Argentina,Google Ads,C002,False,
+L0020,2024-02-06,Ricardo,Martinez,ricardo.martinez@opendigital.com,Head of Operations,Open Digital,Consulting,51-200,Spain,LinkedIn Ads,C007,False,
+L0021,2024-10-06,Fernanda,Martinez,fernanda.martinez@ecoworks.mx,COO,Eco Works,SaaS,1-10,Peru,Organic / SEO,C018,False,
+L0022,2024-04-06,Sofia,Sanchez,sofia.sanchez@flexhub.com,CTO,Flex Hub,Consulting,11-50,Chile,Organic / SEO,C019,False,
+L0023,2024-08-15,Maria,Martinez,maria.martinez@blueagency.co,Product Owner,Blue Agency,SaaS,51-200,Argentina,Organic / SEO,C020,False,
+L0024,2024-03-08,Ricardo,Hernandez,ricardo.hernandez@fastlabs.io,Project Manager,Fast Labs,Consulting,201-500,Mexico,Google Ads,C002,False,
+L0025,2024-06-20,Fernanda,Hernandez,fernanda.hernandez@ecosolutions.mx,CEO,Eco Solutions,SaaS,51-200,Spain,Google Ads,C003,False,
+L0026,2024-07-23,Diego,Ramirez,diego.ramirez@coregroup.mx,Head of Operations,Core Group,EdTech,11-50,Mexico,Organic / SEO,C020,False,
+L0027,2024-01-03,Valeria,Martinez,valeria.martinez@bluepartners.co,CEO,Blue Partners,EdTech,51-200,Mexico,Email Marketing,C012,True,2024-02-01
+L0028,2024-01-02,Isabella,Perez,isabella.perez@blueworks.mx,CEO,Blue Works,Finance,201-500,Peru,Webinar,C015,True,2024-01-07
+L0029,2024-04-29,Valeria,Rodriguez,valeria.rodriguez@coreworks.mx,Founder,Core Works,Digital Agency,51-200,Mexico,Google Ads,C002,False,
+L0030,2024-03-29,Diego,Ramirez,diego.ramirez@nextlabs.mx,Project Manager,Next Labs,Manufacturing,201-500,Colombia,Webinar,C015,True,2024-04-06
+L0031,2024-05-08,Camila,Sanchez,camila.sanchez@smartlabs.com,Product Owner,Smart Labs,Manufacturing,11-50,Mexico,Email Marketing,C010,False,
+L0032,2024-05-29,Andrea,Torres,andrea.torres@nexttech.mx,Project Manager,Next Tech,Consulting,1-10,Mexico,Google Ads,C001,False,
+L0033,2024-09-28,Carlos,Garcia,carlos.garcia@alphasystems.com,Founder,Alpha Systems,HealthTech,11-50,Peru,LinkedIn Ads,C007,False,
+L0034,2024-02-07,Valeria,Lopez,valeria.lopez@peakworks.co,VP of Product,Peak Works,Consulting,1-10,Spain,Google Ads,C002,False,
+L0035,2024-02-11,Andres,Perez,andres.perez@nextsystems.co,Marketing Manager,Next Systems,HealthTech,51-200,Chile,LinkedIn Ads,C008,False,
+L0036,2024-02-02,Daniela,Gonzalez,daniela.gonzalez@ecolabs.co,Head of Operations,Eco Labs,E-commerce,201-500,Mexico,LinkedIn Ads,C006,False,
+L0037,2024-01-09,Maria,Perez,maria.perez@alphagroup.co,Project Manager,Alpha Group,Finance,51-200,Colombia,Email Marketing,C013,False,
+L0038,2024-09-17,Ricardo,Rodriguez,ricardo.rodriguez@boldsolution.com,Product Owner,Bold Solutions,EdTech,500+,Colombia,Organic / SEO,C019,False,
+L0039,2024-02-13,Natalia,Rodriguez,natalia.rodriguez@coresolution.io,CEO,Core Solutions,SaaS,51-200,Mexico,Email Marketing,C013,False,
+L0040,2024-04-14,Andrea,Perez,andrea.perez@faststudio.mx,CTO,Fast Studio,EdTech,51-200,Costa Rica,Webinar,C015,False,
+L0041,2024-06-07,Fernanda,Rodriguez,fernanda.rodriguez@alphatech.co,IT Director,Alpha Tech,Digital Agency,201-500,Spain,Webinar,C014,True,2024-07-01
+L0042,2024-11-05,Andres,Perez,andres.perez@bluetech.io,Project Manager,Blue Tech,EdTech,51-200,Chile,Webinar,C014,True,2024-12-03
+L0043,2024-11-20,Sofia,Lopez,sofia.lopez@peakhub.mx,Project Manager,Peak Hub,E-commerce,1-10,Argentina,LinkedIn Ads,C007,False,
+L0044,2024-04-26,Natalia,Garcia,natalia.garcia@novasystems.com,VP of Product,Nova Systems,Consulting,51-200,Mexico,Email Marketing,C009,True,2024-04-30
+L0045,2024-05-03,Sofia,Hernandez,sofia.hernandez@opentech.mx,CTO,Open Tech,E-commerce,11-50,Mexico,Organic / SEO,C018,False,
+L0046,2024-04-21,Isabella,Garcia,isabella.garcia@brightpartne.co,Marketing Manager,Bright Partners,HealthTech,11-50,Mexico,Google Ads,C001,False,
+L0047,2024-10-10,Valeria,Ramirez,valeria.ramirez@ecosystems.io,Head of Operations,Eco Systems,HealthTech,201-500,Argentina,Google Ads,C003,False,
+L0048,2024-01-11,Roberto,Martinez,roberto.martinez@bluesystems.com,Product Owner,Blue Systems,EdTech,1-10,Chile,Webinar,C016,True,2024-01-22
+L0049,2024-02-21,Carlos,Gonzalez,carlos.gonzalez@novastudio.com,Project Manager,Nova Studio,Manufacturing,51-200,Chile,Google Ads,C003,False,
+L0050,2024-10-30,Daniela,Rodriguez,daniela.rodriguez@smartdigital.mx,IT Director,Smart Digital,Consulting,51-200,Peru,Email Marketing,C011,True,2024-11-21
+L0051,2024-10-30,Alejandro,Hernandez,alejandro.hernandez@bluestudio.mx,CTO,Blue Studio,SaaS,11-50,Argentina,LinkedIn Ads,C007,False,
+L0052,2024-05-06,Sofia,Hernandez,sofia.hernandez@alphadigital.com,COO,Alpha Digital,E-commerce,11-50,Colombia,Email Marketing,C010,False,
+L0053,2024-05-03,Sofia,Sanchez,sofia.sanchez@boldlabs.co,CEO,Bold Labs,Digital Agency,51-200,Brazil,Google Ads,C003,False,
+L0054,2024-10-01,Andrea,Lopez,andrea.lopez@opengroup.io,CTO,Open Group,Finance,500+,Argentina,Organic / SEO,C019,True,2024-10-18
+L0055,2024-01-23,Jorge,Martinez,jorge.martinez@brighttech.com,VP of Product,Bright Tech,SaaS,51-200,Colombia,Webinar,C015,False,
+L0056,2024-10-18,Andres,Martinez,andres.martinez@fastworks.co,Marketing Manager,Fast Works,Digital Agency,11-50,Spain,Email Marketing,C010,False,
+L0057,2024-10-21,Valeria,Perez,valeria.perez@flextech.mx,COO,Flex Tech,Finance,51-200,Chile,Google Ads,C003,False,
+L0058,2024-05-13,Andres,Garcia,andres.garcia@nextstudio.com,Project Manager,Next Studio,E-commerce,500+,Mexico,LinkedIn Ads,C008,False,
+L0059,2024-03-22,Luis,Hernandez,luis.hernandez@peakstudio.com,Head of Operations,Peak Studio,Finance,11-50,Mexico,Webinar,C014,True,2024-04-06
+L0060,2024-06-12,Camila,Torres,camila.torres@novahub.io,VP of Product,Nova Hub,Digital Agency,51-200,Chile,Organic / SEO,C020,False,
+L0061,2024-07-22,Ricardo,Gonzalez,ricardo.gonzalez@openlabs.com,IT Director,Open Labs,E-commerce,500+,Chile,LinkedIn Ads,C005,False,
+L0062,2024-07-27,Camila,Rodriguez,camila.rodriguez@bluegroup.com,Head of Operations,Blue Group,Manufacturing,500+,Mexico,LinkedIn Ads,C006,True,2024-08-12
+L0063,2024-06-22,Ricardo,Perez,ricardo.perez@ecopartners.io,VP of Product,Eco Partners,Digital Agency,11-50,Argentina,Organic / SEO,C019,False,
+L0064,2024-03-10,Paola,Martinez,paola.martinez@nextagency.co,Founder,Next Agency,Finance,500+,Chile,Google Ads,C003,False,
+L0065,2024-04-08,Andrea,Perez,andrea.perez@coredigital.com,Founder,Core Digital,Digital Agency,1-10,Peru,Email Marketing,C012,False,
+L0066,2024-10-03,Juan,Martinez,juan.martinez@bluesolution.co,CEO,Blue Solutions,SaaS,201-500,Brazil,Google Ads,C004,True,2024-10-26
+L0067,2024-04-08,Valeria,Lopez,valeria.lopez@nextgroup.mx,Product Owner,Next Group,Finance,11-50,Colombia,Webinar,C014,False,
+L0068,2024-05-04,Juan,Martinez,juan.martinez@ecogroup.mx,Founder,Eco Group,Manufacturing,11-50,Peru,LinkedIn Ads,C007,False,
+L0069,2024-06-23,Camila,Hernandez,camila.hernandez@boldpartners.io,Founder,Bold Partners,SaaS,1-10,Colombia,LinkedIn Ads,C007,False,
+L0070,2024-06-18,Jorge,Gonzalez,jorge.gonzalez@bluedigital.co,CEO,Blue Digital,HealthTech,1-10,Spain,LinkedIn Ads,C005,False,
+L0071,2024-05-15,Miguel,Hernandez,miguel.hernandez@alphapartner.io,Product Owner,Alpha Partners,E-commerce,11-50,Mexico,Organic / SEO,C020,True,2024-05-18
+L0072,2024-04-23,Sofia,Ramirez,sofia.ramirez@fasthub.io,CEO,Fast Hub,SaaS,201-500,Peru,LinkedIn Ads,C007,True,2024-05-14
+L0073,2024-05-17,Diego,Torres,diego.torres@novapartners.com,VP of Product,Nova Partners,HealthTech,11-50,Colombia,LinkedIn Ads,C008,True,2024-05-27
+L0074,2024-11-29,Miguel,Gonzalez,miguel.gonzalez@smartgroup.mx,Project Manager,Smart Group,Consulting,11-50,Chile,Google Ads,C003,False,
+L0075,2024-01-01,Camila,Sanchez,camila.sanchez@smartsystems.io,Head of Operations,Smart Systems,E-commerce,51-200,Colombia,Google Ads,C002,False,
+L0076,2024-09-22,Camila,Sanchez,camila.sanchez@smarttech.io,Head of Operations,Smart Tech,Digital Agency,1-10,Mexico,Google Ads,C003,True,2024-09-25
+L0077,2024-02-05,Roberto,Gonzalez,roberto.gonzalez@smarthub.io,Project Manager,Smart Hub,Consulting,1-10,Colombia,Google Ads,C001,False,
+L0078,2024-11-02,Valeria,Garcia,valeria.garcia@nexthub.co,Head of Operations,Next Hub,E-commerce,1-10,Argentina,Webinar,C016,False,
+L0079,2024-04-18,Andres,Rodriguez,andres.rodriguez@boldstudio.mx,VP of Product,Bold Studio,Manufacturing,1-10,Chile,Google Ads,C004,False,
+L0080,2024-02-11,Isabella,Ramirez,isabella.ramirez@ecoagency.io,Head of Operations,Eco Agency,EdTech,51-200,Argentina,Email Marketing,C011,False,
+L0081,2024-10-02,Miguel,Ramirez,miguel.ramirez@bluelabs.com,Founder,Blue Labs,E-commerce,11-50,Peru,Google Ads,C004,False,
+L0082,2024-10-26,Andrea,Hernandez,andrea.hernandez@corestudio.co,Project Manager,Core Studio,SaaS,11-50,Mexico,Email Marketing,C013,False,
+L0083,2024-07-03,Andres,Gonzalez,andres.gonzalez@peakpartners.mx,VP of Product,Peak Partners,EdTech,1-10,Mexico,Google Ads,C003,False,
+L0084,2024-02-22,Natalia,Martinez,natalia.martinez@brightstudio.mx,Founder,Bright Studio,EdTech,51-200,Spain,Email Marketing,C013,False,
+L0085,2024-01-10,Fernanda,Martinez,fernanda.martinez@ecohub.co,CEO,Eco Hub,Digital Agency,201-500,Colombia,Email Marketing,C011,False,
+L0086,2024-11-06,Valeria,Martinez,valeria.martinez@alphaworks.io,Marketing Manager,Alpha Works,Manufacturing,1-10,Chile,Email Marketing,C013,False,
+L0087,2024-09-06,Maria,Sanchez,maria.sanchez@ecodigital.mx,Product Owner,Eco Digital,Consulting,500+,Spain,Organic / SEO,C020,False,
+L0088,2024-03-23,Natalia,Lopez,natalia.lopez@boldgroup.co,Project Manager,Bold Group,Finance,51-200,Chile,Google Ads,C001,False,
+L0089,2024-01-30,Maria,Rodriguez,maria.rodriguez@alphalabs.co,Product Owner,Alpha Labs,Digital Agency,1-10,Mexico,Organic / SEO,C020,False,
+L0090,2024-02-05,Luis,Sanchez,luis.sanchez@bolddigital.io,COO,Bold Digital,HealthTech,11-50,Spain,Email Marketing,C009,False,
+L0091,2024-03-13,Daniela,Gonzalez,daniela.gonzalez@peaklabs.com,Founder,Peak Labs,SaaS,11-50,Colombia,LinkedIn Ads,C006,False,
+L0092,2024-01-30,Paola,Torres,paola.torres@flexsystems.io,CTO,Flex Systems,Consulting,51-200,Mexico,Organic / SEO,C020,True,2024-02-07
+L0093,2024-03-12,Fernanda,Gonzalez,fernanda.gonzalez@flexagency.com,Marketing Manager,Flex Agency,Manufacturing,51-200,Argentina,Email Marketing,C010,False,
+L0094,2024-03-09,Ricardo,Gonzalez,ricardo.gonzalez@fastagency.co,Marketing Manager,Fast Agency,Manufacturing,1-10,Peru,Organic / SEO,C020,False,
+L0095,2024-01-15,Isabella,Garcia,isabella.garcia@brightgroup.com,Product Owner,Bright Group,Digital Agency,1-10,Chile,Webinar,C015,False,
+L0096,2024-06-17,Natalia,Sanchez,natalia.sanchez@novasolution.com,Project Manager,Nova Solutions,Digital Agency,1-10,Mexico,Organic / SEO,C019,False,
+L0097,2024-06-18,Juan,Sanchez,juan.sanchez@boldhub.mx,COO,Bold Hub,E-commerce,1-10,Mexico,Webinar,C017,False,
+L0098,2024-11-23,Daniela,Gonzalez,daniela.gonzalez@brightsoluti.io,Project Manager,Bright Solutions,EdTech,1-10,Mexico,Organic / SEO,C018,False,
+L0099,2024-07-08,Camila,Garcia,camila.garcia@novadigital.io,VP of Product,Nova Digital,Manufacturing,11-50,Spain,Email Marketing,C009,False,
+L0100,2024-02-04,Alejandro,Martinez,alejandro.martinez@peaktech.co,VP of Product,Peak Tech,E-commerce,11-50,Spain,Organic / SEO,C018,True,2024-02-07
+L0101,2024-11-10,Juan,Hernandez,juan.hernandez@corelabs.mx,COO,Core Labs,Finance,201-500,Spain,LinkedIn Ads,C005,False,
+L0102,2024-09-05,Alejandro,Garcia,alejandro.garcia@nextsolution.io,CTO,Next Solutions,Digital Agency,201-500,Mexico,LinkedIn Ads,C007,False,
+L0103,2024-08-17,Natalia,Garcia,natalia.garcia@fastsolution.co,CEO,Fast Solutions,Digital Agency,201-500,Argentina,Email Marketing,C011,True,2024-08-20
+L0104,2024-10-22,Miguel,Perez,miguel.perez@novaworks.com,VP of Product,Nova Works,SaaS,201-500,Colombia,Google Ads,C003,False,
+L0105,2024-05-12,Ricardo,Lopez,ricardo.lopez@boldsystems.mx,Head of Operations,Bold Systems,EdTech,51-200,Peru,Organic / SEO,C019,False,
+L0106,2024-06-21,Maria,Rodriguez,maria.rodriguez@nextworks.com,CEO,Next Works,E-commerce,201-500,Colombia,Google Ads,C001,False,
+L0107,2024-03-05,Paola,Hernandez,paola.hernandez@coreagency.co,Head of Operations,Core Agency,E-commerce,11-50,Spain,Organic / SEO,C019,False,
+L0108,2024-07-09,Jorge,Hernandez,jorge.hernandez@brighthub.co,COO,Bright Hub,EdTech,11-50,Colombia,Webinar,C015,False,
+L0109,2024-02-19,Jorge,Torres,jorge.torres@brightworks.mx,Project Manager,Bright Works,HealthTech,11-50,Argentina,LinkedIn Ads,C007,True,2024-02-21
+L0110,2024-05-03,Natalia,Perez,natalia.perez@peakdigital.co,Marketing Manager,Peak Digital,HealthTech,51-200,Spain,Google Ads,C003,True,2024-05-10
+L0111,2024-06-14,Ricardo,Rodriguez,ricardo.rodriguez@flexlabs.co,Project Manager,Flex Labs,Finance,11-50,Chile,LinkedIn Ads,C006,False,
+L0112,2024-03-12,Paola,Gonzalez,paola.gonzalez@brightsystem.co,IT Director,Bright Systems,Manufacturing,1-10,Mexico,Organic / SEO,C019,False,
+L0113,2024-03-02,Andres,Hernandez,andres.hernandez@novagroup.com,VP of Product,Nova Group,SaaS,51-200,Colombia,Email Marketing,C009,False,
+L0114,2024-06-16,Ricardo,Martinez,ricardo.martinez@smartstudio.com,CTO,Smart Studio,SaaS,51-200,Peru,Organic / SEO,C020,False,
+L0115,2024-01-25,Fernanda,Torres,fernanda.torres@smartsolutio.co,CEO,Smart Solutions,EdTech,11-50,Peru,Google Ads,C001,False,
+L0116,2024-01-09,Roberto,Torres,roberto.torres@brightagency.mx,VP of Product,Bright Agency,Consulting,1-10,Mexico,Google Ads,C003,False,
+L0117,2024-02-09,Fernanda,Lopez,fernanda.lopez@peakgroup.mx,Founder,Peak Group,Manufacturing,201-500,Chile,LinkedIn Ads,C006,False,
+L0118,2024-09-28,Natalia,Garcia,natalia.garcia@coretech.mx,Product Owner,Core Tech,E-commerce,51-200,Peru,Google Ads,C001,False,
+L0119,2024-01-08,Jorge,Hernandez,jorge.hernandez@coresystems.io,VP of Product,Core Systems,EdTech,1-10,Colombia,Email Marketing,C013,True,2024-01-13
+L0120,2024-05-04,Juan,Hernandez,juan.hernandez@smartpartner.mx,CEO,Smart Partners,Finance,11-50,Peru,LinkedIn Ads,C005,False,
+L0121,2024-01-10,Luis,Lopez,luis.lopez@openstudio.io,COO,Open Studio,E-commerce,11-50,Argentina,Organic / SEO,C019,True,2024-02-02
+L0122,2024-07-05,Sofia,Martinez,sofia.martinez@boldtech.com,Head of Operations,Bold Tech,EdTech,11-50,Peru,Google Ads,C004,False,
+L0123,2024-07-22,Paola,Lopez,paola.lopez@peakagency.com,CTO,Peak Agency,HealthTech,11-50,Colombia,Webinar,C015,True,2024-07-28
+L0124,2024-06-24,Miguel,Sanchez,miguel.sanchez@ecostudio.co,IT Director,Eco Studio,HealthTech,11-50,Chile,Webinar,C017,False,
+L0125,2024-02-09,Miguel,Garcia,miguel.garcia@novatech.io,Head of Operations,Nova Tech,Manufacturing,1-10,Mexico,Organic / SEO,C019,False,
+L0126,2024-10-19,Maria,Garcia,maria.garcia@flexdigital.com,Project Manager,Flex Digital,Manufacturing,1-10,Chile,Email Marketing,C012,False,
+L0127,2024-01-22,Valeria,Hernandez,valeria.hernandez@flexworks.co,Founder,Flex Works,E-commerce,51-200,Colombia,Google Ads,C003,False,
+L0128,2024-06-29,Daniela,Martinez,daniela.martinez@alphasolutio.com,CEO,Alpha Solutions,Digital Agency,11-50,Argentina,Webinar,C014,False,
+L0129,2024-10-07,Camila,Gonzalez,camila.gonzalez@opensolution.co,CTO,Open Solutions,Consulting,1-10,Mexico,Organic / SEO,C020,False,
+L0130,2024-01-16,Carlos,Ramirez,carlos.ramirez@flexsolution.com,COO,Flex Solutions,Consulting,1-10,Colombia,Organic / SEO,C020,False,
+L0131,2024-02-12,Paola,Rodriguez,paola.rodriguez@openpartners.io,CEO,Open Partners,Finance,11-50,Argentina,LinkedIn Ads,C008,False,
+L0132,2024-11-24,Ricardo,Lopez,ricardo.lopez@novaagency.co,Marketing Manager,Nova Agency,Finance,1-10,Mexico,Organic / SEO,C020,False,
+L0133,2024-07-31,Isabella,Hernandez,isabella.hernandez@openagency.io,Founder,Open Agency,Digital Agency,51-200,Mexico,Google Ads,C002,True,2024-08-19
+L0134,2024-06-16,Miguel,Garcia,miguel.garcia@fastdigital.mx,Marketing Manager,Fast Digital,Finance,201-500,Argentina,Email Marketing,C010,True,2024-06-22
+L0135,2024-09-12,Diego,Rodriguez,diego.rodriguez@alphastudio.com,COO,Alpha Studio,Digital Agency,51-200,Colombia,Google Ads,C001,False,
+L0136,2024-09-22,Jorge,Perez,jorge.perez@flexgroup.mx,Product Owner,Flex Group,Digital Agency,11-50,Mexico,Webinar,C016,False,
+L0137,2024-03-06,Alejandro,Gonzalez,alejandro.gonzalez@fastgroup.com,Project Manager,Fast Group,EdTech,11-50,Spain,Email Marketing,C010,True,2024-03-24
+L0138,2024-08-27,Alejandro,Martinez,alejandro.martinez@boldworks.io,COO,Bold Works,EdTech,51-200,Colombia,Email Marketing,C009,False,
+L0139,2024-04-13,Fernanda,Hernandez,fernanda.hernandez@openhub.io,CEO,Open Hub,HealthTech,11-50,Mexico,Email Marketing,C013,False,
+L0140,2024-09-18,Luis,Martinez,luis.martinez@smartworks.mx,Marketing Manager,Smart Works,HealthTech,500+,Mexico,Organic / SEO,C018,False,
+L0141,2024-02-26,Sofia,Torres,sofia.torres@fasttech.mx,IT Director,Fast Tech,SaaS,51-200,Argentina,Organic / SEO,C018,False,
+L0142,2024-01-20,Carlos,Lopez,carlos.lopez@brightdigita.io,Product Owner,Bright Digital,EdTech,51-200,Chile,Google Ads,C002,False,
+L0143,2024-06-25,Ricardo,Perez,ricardo.perez@fastpartners.co,Head of Operations,Fast Partners,EdTech,11-50,Colombia,LinkedIn Ads,C007,False,
+L0144,2024-07-01,Jorge,Hernandez,jorge.hernandez@corp143.mx,Head of Operations,Corp143,EdTech,51-200,Spain,LinkedIn Ads,C008,False,
+L0145,2024-10-09,Paola,Torres,paola.torres@corp143.io,IT Director,Corp143,EdTech,51-200,Brazil,Google Ads,C002,False,
+L0146,2024-09-04,Ricardo,Rodriguez,ricardo.rodriguez@corp143.com,COO,Corp143,EdTech,1-10,Colombia,Google Ads,C002,False,
+L0147,2024-06-18,Diego,Torres,diego.torres@corp143.mx,Head of Operations,Corp143,HealthTech,51-200,Argentina,Organic / SEO,C019,True,2024-07-06
+L0148,2024-04-10,Juan,Gonzalez,juan.gonzalez@corp143.com,VP of Product,Corp143,Manufacturing,11-50,Peru,Organic / SEO,C020,False,
+L0149,2024-02-18,Isabella,Torres,isabella.torres@corp143.io,IT Director,Corp143,HealthTech,1-10,Spain,LinkedIn Ads,C006,True,2024-03-14
+L0150,2024-06-22,Sofia,Hernandez,sofia.hernandez@corp143.io,Head of Operations,Corp143,E-commerce,201-500,Chile,Google Ads,C002,False,
+L0151,2024-02-20,Andrea,Ramirez,andrea.ramirez@corp143.com,COO,Corp143,Finance,11-50,Mexico,Organic / SEO,C018,False,
+L0152,2024-04-10,Camila,Hernandez,camila.hernandez@corp143.mx,Marketing Manager,Corp143,Consulting,1-10,Brazil,Google Ads,C004,False,
+L0153,2024-09-08,Paola,Torres,paola.torres@corp143.mx,COO,Corp143,Consulting,11-50,Brazil,Webinar,C015,False,
+L0154,2024-07-30,Natalia,Sanchez,natalia.sanchez@corp143.com,CEO,Corp143,Consulting,1-10,Spain,Google Ads,C001,False,
+L0155,2024-02-06,Natalia,Hernandez,natalia.hernandez@corp143.io,Head of Operations,Corp143,HealthTech,1-10,Colombia,Email Marketing,C012,True,2024-03-07
+L0156,2024-10-22,Andrea,Rodriguez,andrea.rodriguez@corp143.io,Founder,Corp143,EdTech,11-50,Mexico,Organic / SEO,C020,False,
+L0157,2024-07-14,Camila,Perez,camila.perez@corp143.mx,Project Manager,Corp143,EdTech,1-10,Costa Rica,Email Marketing,C009,False,
+L0158,2024-08-16,Sofia,Gonzalez,sofia.gonzalez@corp143.mx,CTO,Corp143,E-commerce,500+,Mexico,Webinar,C014,True,2024-08-28
+L0159,2024-06-30,Juan,Ramirez,juan.ramirez@corp143.mx,Founder,Corp143,E-commerce,11-50,Costa Rica,Webinar,C017,False,
+L0160,2024-06-11,Paola,Gonzalez,paola.gonzalez@corp143.co,COO,Corp143,EdTech,11-50,Spain,Webinar,C016,False,
+L0161,2024-10-18,Roberto,Hernandez,roberto.hernandez@corp143.co,CEO,Corp143,HealthTech,51-200,Colombia,Webinar,C017,False,
+L0162,2024-11-05,Maria,Martinez,maria.martinez@corp143.com,Project Manager,Corp143,Finance,1-10,Colombia,Organic / SEO,C020,False,
+L0163,2024-08-02,Isabella,Perez,isabella.perez@corp143.mx,Project Manager,Corp143,EdTech,201-500,Mexico,LinkedIn Ads,C006,True,2024-08-04
+L0164,2024-03-24,Fernanda,Sanchez,fernanda.sanchez@corp143.mx,CEO,Corp143,HealthTech,201-500,Spain,Email Marketing,C013,True,2024-03-25
+L0165,2024-07-04,Carlos,Martinez,carlos.martinez@corp143.com,IT Director,Corp143,Consulting,11-50,Spain,LinkedIn Ads,C007,False,
+L0166,2024-03-19,Alejandro,Gonzalez,alejandro.gonzalez@corp143.com,Product Owner,Corp143,EdTech,51-200,Mexico,Email Marketing,C013,False,
+L0167,2024-04-28,Natalia,Perez,natalia.perez@corp143.co,Marketing Manager,Corp143,Manufacturing,1-10,Chile,Google Ads,C002,False,
+L0168,2024-09-03,Diego,Hernandez,diego.hernandez@corp143.com,IT Director,Corp143,HealthTech,1-10,Peru,Organic / SEO,C019,False,
+L0169,2024-06-07,Diego,Rodriguez,diego.rodriguez@corp143.co,COO,Corp143,Manufacturing,201-500,Brazil,Email Marketing,C011,True,2024-06-08
+L0170,2024-07-18,Ricardo,Garcia,ricardo.garcia@corp143.com,CTO,Corp143,E-commerce,51-200,Spain,LinkedIn Ads,C005,True,2024-07-24
+L0171,2024-02-07,Ricardo,Martinez,ricardo.martinez@corp143.mx,Product Owner,Corp143,E-commerce,11-50,Mexico,Google Ads,C001,False,
+L0172,2024-11-17,Ricardo,Ramirez,ricardo.ramirez@corp143.co,IT Director,Corp143,SaaS,11-50,Mexico,Google Ads,C004,False,
+L0173,2024-09-22,Daniela,Perez,daniela.perez@corp143.com,Product Owner,Corp143,Consulting,11-50,Mexico,Email Marketing,C010,True,2024-09-23
+L0174,2024-08-19,Roberto,Rodriguez,roberto.rodriguez@corp143.mx,CEO,Corp143,EdTech,1-10,Mexico,Organic / SEO,C018,False,
+L0175,2024-02-14,Sofia,Gonzalez,sofia.gonzalez@corp143.com,Project Manager,Corp143,HealthTech,11-50,Spain,Organic / SEO,C020,False,
+L0176,2024-08-16,Miguel,Sanchez,miguel.sanchez@corp143.mx,IT Director,Corp143,Manufacturing,1-10,Colombia,Organic / SEO,C020,False,
+L0177,2024-02-02,Ricardo,Martinez,ricardo.martinez@corp143.io,CEO,Corp143,Consulting,51-200,Peru,LinkedIn Ads,C005,False,
+L0178,2024-10-12,Jorge,Martinez,jorge.martinez@corp143.co,VP of Product,Corp143,Consulting,11-50,Mexico,Organic / SEO,C019,False,
+L0179,2024-08-16,Natalia,Sanchez,natalia.sanchez@corp143.com,Head of Operations,Corp143,Manufacturing,1-10,Mexico,Organic / SEO,C018,False,
+L0180,2024-01-04,Miguel,Martinez,miguel.martinez@corp143.io,VP of Product,Corp143,Consulting,11-50,Mexico,Email Marketing,C011,False,
+L0181,2024-11-26,Luis,Lopez,luis.lopez@corp143.io,Marketing Manager,Corp143,SaaS,11-50,Colombia,Organic / SEO,C018,False,
+L0182,2024-05-13,Andres,Gonzalez,andres.gonzalez@corp143.mx,Project Manager,Corp143,HealthTech,1-10,Mexico,LinkedIn Ads,C006,False,
+L0183,2024-01-01,Juan,Ramirez,juan.ramirez@corp143.com,Project Manager,Corp143,Finance,201-500,Brazil,Google Ads,C001,False,
+L0184,2024-01-13,Valeria,Rodriguez,valeria.rodriguez@corp143.io,COO,Corp143,SaaS,11-50,Mexico,Organic / SEO,C020,False,
+L0185,2024-09-23,Diego,Martinez,diego.martinez@corp143.mx,IT Director,Corp143,Digital Agency,11-50,Colombia,Webinar,C016,False,
+L0186,2024-06-12,Jorge,Torres,jorge.torres@corp143.mx,COO,Corp143,EdTech,11-50,Spain,LinkedIn Ads,C007,False,
+L0187,2024-07-25,Natalia,Gonzalez,natalia.gonzalez@corp143.io,COO,Corp143,Manufacturing,11-50,Chile,LinkedIn Ads,C007,False,
+L0188,2024-09-02,Isabella,Gonzalez,isabella.gonzalez@corp143.com,COO,Corp143,E-commerce,11-50,Mexico,Webinar,C017,False,
+L0189,2024-11-21,Luis,Garcia,luis.garcia@corp143.co,Head of Operations,Corp143,Consulting,1-10,Spain,Organic / SEO,C020,False,
+L0190,2024-06-01,Ricardo,Lopez,ricardo.lopez@corp143.mx,Product Owner,Corp143,SaaS,500+,Peru,Google Ads,C002,True,2024-06-14
+L0191,2024-01-22,Andres,Martinez,andres.martinez@corp143.com,Project Manager,Corp143,HealthTech,51-200,Argentina,LinkedIn Ads,C006,False,
+L0192,2024-07-29,Daniela,Martinez,daniela.martinez@corp143.co,CTO,Corp143,E-commerce,51-200,Colombia,Email Marketing,C011,True,2024-08-17
+L0193,2024-09-13,Diego,Perez,diego.perez@corp143.co,IT Director,Corp143,SaaS,11-50,Mexico,LinkedIn Ads,C007,False,
+L0194,2024-01-29,Juan,Ramirez,juan.ramirez@corp143.mx,Project Manager,Corp143,Digital Agency,51-200,Colombia,Webinar,C015,False,
+L0195,2024-09-08,Valeria,Torres,valeria.torres@corp143.co,COO,Corp143,Digital Agency,11-50,Spain,Email Marketing,C012,False,
+L0196,2024-03-04,Miguel,Ramirez,miguel.ramirez@corp143.co,COO,Corp143,Finance,51-200,Mexico,LinkedIn Ads,C005,False,
+L0197,2024-07-11,Diego,Sanchez,diego.sanchez@corp143.com,Head of Operations,Corp143,HealthTech,51-200,Spain,Webinar,C016,False,
+L0198,2024-01-13,Natalia,Sanchez,natalia.sanchez@corp143.co,CTO,Corp143,SaaS,11-50,Chile,LinkedIn Ads,C007,True,2024-01-28
+L0199,2024-04-14,Paola,Sanchez,paola.sanchez@corp143.co,Marketing Manager,Corp143,SaaS,11-50,Argentina,Webinar,C015,False,
+L0200,2024-08-29,Roberto,Perez,roberto.perez@corp143.io,CTO,Corp143,Consulting,11-50,Colombia,Organic / SEO,C020,True,2024-09-10
+L0201,2024-10-01,Sofia,Gonzalez,sofia.gonzalez@corp143.co,VP of Product,Corp143,HealthTech,51-200,Chile,Organic / SEO,C018,False,
+L0202,2024-09-15,Camila,Sanchez,camila.sanchez@corp143.io,Founder,Corp143,SaaS,11-50,Spain,Google Ads,C004,False,
+L0204,2024-09-09,Luis,Sanchez,luis.sanchez@corp143.mx,Product Owner,Corp143,HealthTech,11-50,Mexico,Google Ads,C001,False,
+L0205,2024-05-16,Natalia,Martinez,natalia.martinez@corp143.com,Product Owner,Corp143,SaaS,51-200,Colombia,Email Marketing,C010,True,2024-06-03
+L0206,2024-08-05,Ricardo,Gonzalez,ricardo.gonzalez@corp143.io,Marketing Manager,Corp143,Consulting,1-10,Mexico,Google Ads,C001,False,
+L0207,2024-05-01,Andres,Hernandez,andres.hernandez@corp143.com,Founder,Corp143,EdTech,11-50,Peru,Organic / SEO,C019,False,
+L0208,2024-02-07,Andrea,Garcia,andrea.garcia@corp143.com,CTO,Corp143,Digital Agency,201-500,Colombia,Webinar,C017,True,2024-03-03
+L0209,2024-09-15,Miguel,Garcia,miguel.garcia@corp143.mx,VP of Product,Corp143,EdTech,11-50,Argentina,Organic / SEO,C018,True,2024-10-11
+L0210,2024-02-06,Andrea,Sanchez,andrea.sanchez@corp143.com,Marketing Manager,Corp143,E-commerce,11-50,Peru,Google Ads,C001,False,
+L0211,2024-10-10,Valeria,Hernandez,valeria.hernandez@corp143.mx,CTO,Corp143,Finance,51-200,Mexico,Organic / SEO,C018,False,
+L0212,2024-04-11,Miguel,Torres,miguel.torres@corp143.com,Marketing Manager,Corp143,HealthTech,51-200,Colombia,Email Marketing,C009,True,2024-04-12
+L0213,2024-10-13,Valeria,Martinez,valeria.martinez@corp143.mx,CTO,Corp143,Manufacturing,1-10,Mexico,LinkedIn Ads,C006,False,
+L0214,2024-03-12,Natalia,Perez,natalia.perez@corp143.mx,COO,Corp143,Manufacturing,11-50,Chile,LinkedIn Ads,C006,False,
+L0215,2024-09-23,Juan,Hernandez,juan.hernandez@corp143.co,Marketing Manager,Corp143,E-commerce,11-50,Chile,Google Ads,C001,False,
+L0216,2024-08-05,Valeria,Lopez,valeria.lopez@corp143.mx,Founder,Corp143,EdTech,51-200,Chile,Organic / SEO,C020,False,
+L0217,2024-02-14,Luis,Rodriguez,luis.rodriguez@corp143.com,VP of Product,Corp143,EdTech,11-50,Spain,Webinar,C015,False,
+L0218,2024-03-01,Carlos,Ramirez,carlos.ramirez@corp143.com,Founder,Corp143,Manufacturing,51-200,Mexico,Webinar,C016,True,2024-03-23
+L0219,2024-01-26,Paola,Torres,paola.torres@corp143.com,Founder,Corp143,EdTech,1-10,Argentina,Webinar,C015,False,
+L0220,2024-08-30,Valeria,Perez,valeria.perez@corp143.co,Project Manager,Corp143,Digital Agency,1-10,Argentina,Google Ads,C001,False,
+L0221,2024-08-08,Daniela,Garcia,daniela.garcia@corp143.com,Project Manager,Corp143,SaaS,51-200,Argentina,LinkedIn Ads,C008,False,
+L0222,2024-11-10,Paola,Martinez,paola.martinez@corp143.com,Founder,Corp143,Manufacturing,201-500,Mexico,Google Ads,C004,False,
+L0223,2024-08-10,Alejandro,Sanchez,alejandro.sanchez@corp143.mx,Marketing Manager,Corp143,Consulting,11-50,Mexico,Email Marketing,C010,True,2024-08-28
+L0224,2024-01-15,Alejandro,Hernandez,alejandro.hernandez@corp143.co,Project Manager,Corp143,Digital Agency,51-200,Colombia,LinkedIn Ads,C005,False,
+L0226,2024-03-22,Luis,Garcia,luis.garcia@corp143.mx,Product Owner,Corp143,EdTech,11-50,Mexico,Email Marketing,C009,False,
+L0227,2024-08-11,Roberto,Sanchez,roberto.sanchez@corp143.io,Marketing Manager,Corp143,EdTech,11-50,Argentina,Email Marketing,C009,False,
+L0228,2024-01-06,Carlos,Torres,carlos.torres@corp143.mx,Product Owner,Corp143,HealthTech,51-200,Colombia,Google Ads,C001,False,
+L0229,2024-10-30,Jorge,Garcia,jorge.garcia@corp143.io,IT Director,Corp143,HealthTech,1-10,Peru,Email Marketing,C010,False,
+L0230,2024-06-08,Alejandro,Martinez,alejandro.martinez@corp143.io,Founder,Corp143,Digital Agency,51-200,Argentina,Webinar,C014,True,2024-06-14
+L0231,2024-04-12,Miguel,Torres,miguel.torres@corp143.co,VP of Product,Corp143,EdTech,51-200,Spain,Google Ads,C004,False,
+L0232,2024-11-23,Paola,Gonzalez,paola.gonzalez@corp143.mx,Marketing Manager,Corp143,SaaS,11-50,Mexico,Email Marketing,C012,False,
+L0233,2024-07-30,Diego,Garcia,diego.garcia@corp143.co,Marketing Manager,Corp143,Manufacturing,51-200,Colombia,Organic / SEO,C019,False,
+L0234,2024-11-19,Carlos,Gonzalez,carlos.gonzalez@corp143.co,Product Owner,Corp143,Manufacturing,51-200,Colombia,Google Ads,C001,False,
+L0235,2024-01-20,Daniela,Lopez,daniela.lopez@corp143.mx,Project Manager,Corp143,Manufacturing,1-10,Mexico,Google Ads,C002,False,
+L0237,2024-08-23,Miguel,Hernandez,miguel.hernandez@corp143.co,Marketing Manager,Corp143,EdTech,51-200,Peru,Email Marketing,C012,False,
+L0239,2024-01-29,Luis,Perez,luis.perez@corp143.co,VP of Product,Corp143,HealthTech,1-10,Argentina,LinkedIn Ads,C008,False,
+L0241,2024-05-03,Paola,Ramirez,paola.ramirez@corp143.co,Project Manager,Corp143,E-commerce,51-200,Colombia,Google Ads,C004,False,
+L0242,2024-01-28,Roberto,Gonzalez,roberto.gonzalez@corp143.com,Product Owner,Corp143,Finance,201-500,Peru,Organic / SEO,C020,False,
+L0243,2024-10-12,Roberto,Martinez,roberto.martinez@corp143.co,IT Director,Corp143,SaaS,1-10,Brazil,Webinar,C015,False,
+L0244,2024-09-05,Carlos,Ramirez,carlos.ramirez@corp143.mx,Head of Operations,Corp143,Finance,500+,Chile,LinkedIn Ads,C005,True,2024-09-28
+L0245,2024-07-01,Diego,Lopez,diego.lopez@corp143.mx,COO,Corp143,E-commerce,201-500,Argentina,LinkedIn Ads,C008,False,
+L0246,2024-09-10,Juan,Rodriguez,juan.rodriguez@corp143.io,Founder,Corp143,HealthTech,1-10,Colombia,Email Marketing,C013,True,2024-09-21
+L0247,2024-06-11,Juan,Ramirez,juan.ramirez@corp143.io,COO,Corp143,Consulting,11-50,Peru,Webinar,C015,True,2024-06-26
+L0248,2024-11-14,Valeria,Ramirez,valeria.ramirez@corp143.mx,Product Owner,Corp143,SaaS,201-500,Mexico,LinkedIn Ads,C005,False,
+L0249,2024-07-30,Valeria,Hernandez,valeria.hernandez@corp143.mx,Founder,Corp143,SaaS,11-50,Chile,LinkedIn Ads,C006,False,
+L0250,2024-05-17,Juan,Martinez,juan.martinez@corp143.com,Head of Operations,Corp143,Consulting,11-50,Mexico,Organic / SEO,C019,True,2024-06-06
+L0251,2024-01-30,Luis,Sanchez,luis.sanchez@corp143.com,Project Manager,Corp143,HealthTech,11-50,Colombia,Email Marketing,C013,False,
+L0252,2024-04-26,Luis,Gonzalez,luis.gonzalez@corp143.io,IT Director,Corp143,Finance,51-200,Peru,Email Marketing,C013,False,
+L0253,2024-01-19,Ricardo,Hernandez,ricardo.hernandez@corp143.mx,CEO,Corp143,Digital Agency,51-200,Argentina,Email Marketing,C013,False,
+L0254,2024-05-26,Natalia,Lopez,natalia.lopez@corp143.co,COO,Corp143,Consulting,201-500,Colombia,LinkedIn Ads,C008,False,
+L0255,2024-07-23,Luis,Hernandez,luis.hernandez@corp143.io,CTO,Corp143,Manufacturing,201-500,Mexico,Google Ads,C004,False,
+L0256,2024-05-18,Isabella,Lopez,isabella.lopez@corp143.com,Product Owner,Corp143,Digital Agency,1-10,Chile,Webinar,C016,True,2024-06-05
+L0257,2024-10-16,Sofia,Hernandez,sofia.hernandez@corp143.mx,Marketing Manager,Corp143,EdTech,51-200,Spain,LinkedIn Ads,C007,False,
+L0258,2024-09-07,Juan,Martinez,juan.martinez@corp143.io,Product Owner,Corp143,Finance,11-50,Brazil,Organic / SEO,C020,False,
+L0259,2024-07-15,Andrea,Garcia,andrea.garcia@corp143.com,Head of Operations,Corp143,Manufacturing,1-10,Colombia,Email Marketing,C010,True,2024-07-19
+L0260,2024-03-22,Sofia,Perez,sofia.perez@corp143.co,Product Owner,Corp143,Consulting,1-10,Argentina,Organic / SEO,C018,False,
+L0261,2024-04-24,Sofia,Torres,sofia.torres@corp143.mx,IT Director,Corp143,EdTech,11-50,Chile,Email Marketing,C013,False,
+L0262,2024-11-28,Sofia,Gonzalez,sofia.gonzalez@corp143.co,Head of Operations,Corp143,Digital Agency,1-10,Chile,Google Ads,C004,True,2024-12-01
+L0263,2024-03-30,Maria,Rodriguez,maria.rodriguez@corp143.io,VP of Product,Corp143,HealthTech,51-200,Argentina,Email Marketing,C012,False,
+L0264,2024-09-13,Alejandro,Torres,alejandro.torres@corp143.com,Head of Operations,Corp143,Finance,51-200,Spain,LinkedIn Ads,C008,False,
+L0265,2024-09-13,Camila,Ramirez,camila.ramirez@corp143.com,Marketing Manager,Corp143,Manufacturing,11-50,Chile,Email Marketing,C012,False,
+L0266,2024-08-13,Daniela,Torres,daniela.torres@corp143.com,Product Owner,Corp143,SaaS,51-200,Mexico,Organic / SEO,C019,True,2024-09-09
+L0267,2024-05-18,Jorge,Gonzalez,jorge.gonzalez@corp143.com,CTO,Corp143,EdTech,11-50,Colombia,Email Marketing,C013,False,
+L0268,2024-04-24,Daniela,Sanchez,daniela.sanchez@corp143.io,Project Manager,Corp143,E-commerce,1-10,Mexico,Email Marketing,C013,False,
+L0270,2024-05-30,Andres,Martinez,andres.martinez@corp143.io,COO,Corp143,EdTech,11-50,Colombia,Email Marketing,C011,True,2024-06-05
+L0271,2024-09-02,Ricardo,Hernandez,ricardo.hernandez@corp143.com,Marketing Manager,Corp143,Consulting,51-200,Argentina,Email Marketing,C009,False,
+L0272,2024-03-24,Jorge,Torres,jorge.torres@corp143.io,VP of Product,Corp143,EdTech,11-50,Chile,LinkedIn Ads,C006,False,
+L0273,2024-04-08,Carlos,Gonzalez,carlos.gonzalez@corp143.mx,Marketing Manager,Corp143,Consulting,201-500,Argentina,Email Marketing,C012,True,2024-04-23
+L0274,2024-05-14,Sofia,Hernandez,sofia.hernandez@corp143.co,IT Director,Corp143,HealthTech,1-10,Spain,Email Marketing,C012,True,2024-05-20
+L0275,2024-09-03,Carlos,Sanchez,carlos.sanchez@corp143.io,Head of Operations,Corp143,E-commerce,1-10,Colombia,Webinar,C016,False,
+L0276,2024-06-28,Fernanda,Martinez,fernanda.martinez@corp143.co,COO,Corp143,HealthTech,51-200,Peru,LinkedIn Ads,C007,True,2024-06-29
+L0277,2024-04-11,Sofia,Martinez,sofia.martinez@corp143.io,Product Owner,Corp143,HealthTech,11-50,Colombia,LinkedIn Ads,C005,False,
+L0278,2024-05-26,Ricardo,Hernandez,ricardo.hernandez@corp143.mx,Product Owner,Corp143,Finance,11-50,Mexico,LinkedIn Ads,C008,False,
+L0279,2024-07-14,Paola,Lopez,paola.lopez@corp143.io,VP of Product,Corp143,HealthTech,201-500,Colombia,Google Ads,C003,True,2024-08-04
+L0280,2024-09-23,Natalia,Torres,natalia.torres@corp143.mx,IT Director,Corp143,Finance,1-10,Spain,Organic / SEO,C018,True,2024-09-26
+L0282,2024-07-11,Maria,Martinez,maria.martinez@corp143.co,VP of Product,Corp143,EdTech,201-500,Brazil,Google Ads,C002,True,2024-08-03
+L0283,2024-03-18,Valeria,Garcia,valeria.garcia@corp143.co,Head of Operations,Corp143,Consulting,51-200,Argentina,Organic / SEO,C018,False,
+L0284,2024-09-12,Natalia,Lopez,natalia.lopez@corp143.mx,Founder,Corp143,EdTech,51-200,Mexico,Webinar,C014,False,
+L0285,2024-11-17,Alejandro,Torres,alejandro.torres@corp143.com,VP of Product,Corp143,Consulting,11-50,Colombia,Organic / SEO,C020,True,2024-12-02
+L0286,2024-11-27,Ricardo,Perez,ricardo.perez@corp143.com,Marketing Manager,Corp143,Finance,11-50,Spain,Organic / SEO,C020,False,
+L0287,2024-11-08,Carlos,Perez,carlos.perez@corp143.co,COO,Corp143,E-commerce,51-200,Chile,Webinar,C014,False,
+L0289,2024-10-05,Roberto,Gonzalez,roberto.gonzalez@corp143.co,Head of Operations,Corp143,Digital Agency,51-200,Argentina,Organic / SEO,C019,False,
+L0290,2024-02-22,Ricardo,Perez,ricardo.perez@corp143.com,Founder,Corp143,EdTech,11-50,Colombia,LinkedIn Ads,C008,False,
+L0292,2024-11-10,Daniela,Torres,daniela.torres@corp143.io,CTO,Corp143,EdTech,201-500,Argentina,Email Marketing,C012,False,
+L0293,2024-06-28,Miguel,Ramirez,miguel.ramirez@corp143.io,Project Manager,Corp143,Digital Agency,1-10,Argentina,LinkedIn Ads,C007,False,
+L0294,2024-11-07,Jorge,Rodriguez,jorge.rodriguez@corp143.mx,Founder,Corp143,Manufacturing,51-200,Chile,LinkedIn Ads,C005,False,
+L0295,2024-04-04,Miguel,Sanchez,miguel.sanchez@corp143.io,VP of Product,Corp143,Finance,11-50,Mexico,Google Ads,C004,True,2024-04-08
+L0296,2024-04-02,Roberto,Hernandez,roberto.hernandez@corp143.com,Project Manager,Corp143,E-commerce,11-50,Mexico,Organic / SEO,C018,False,
+L0297,2024-02-25,Jorge,Garcia,jorge.garcia@corp143.com,Product Owner,Corp143,SaaS,51-200,Mexico,Organic / SEO,C018,False,
+L0298,2024-10-11,Isabella,Sanchez,isabella.sanchez@corp143.com,Marketing Manager,Corp143,Finance,11-50,Peru,Organic / SEO,C018,False,
+L0299,2024-04-21,Diego,Gonzalez,diego.gonzalez@corp143.mx,Project Manager,Corp143,Finance,51-200,Peru,LinkedIn Ads,C006,False,
+L0300,2024-02-25,Roberto,Lopez,roberto.lopez@corp143.co,Project Manager,Corp143,SaaS,11-50,Colombia,Email Marketing,C013,True,2024-03-10
+L0301,2024-04-09,Natalia,Perez,natalia.perez@corp143.mx,COO,Corp143,E-commerce,51-200,Chile,Email Marketing,C013,False,
+L0302,2024-08-26,Juan,Martinez,juan.martinez@corp143.com,CEO,Corp143,Manufacturing,11-50,Mexico,Google Ads,C001,False,
+L0303,2024-07-08,Paola,Perez,paola.perez@corp143.com,Head of Operations,Corp143,Manufacturing,11-50,Spain,LinkedIn Ads,C005,False,
+L0304,2024-01-21,Isabella,Hernandez,isabella.hernandez@corp143.com,Head of Operations,Corp143,SaaS,1-10,Chile,Google Ads,C004,False,
+L0306,2024-04-27,Carlos,Sanchez,carlos.sanchez@corp143.co,Head of Operations,Corp143,Finance,1-10,Mexico,Google Ads,C002,False,
+L0307,2024-09-30,Paola,Martinez,paola.martinez@corp143.com,CEO,Corp143,Manufacturing,11-50,Spain,Email Marketing,C011,False,
+L0308,2024-03-27,Valeria,Torres,valeria.torres@corp143.mx,Project Manager,Corp143,HealthTech,201-500,Argentina,Webinar,C017,False,
+L0309,2024-05-02,Paola,Hernandez,paola.hernandez@corp143.co,VP of Product,Corp143,Manufacturing,11-50,Peru,Email Marketing,C009,False,
+L0310,2024-11-22,Juan,Perez,juan.perez@corp143.io,Product Owner,Corp143,Manufacturing,11-50,Spain,LinkedIn Ads,C006,True,2024-12-02
+L0312,2024-06-16,Paola,Sanchez,paola.sanchez@corp143.mx,COO,Corp143,HealthTech,1-10,Colombia,Email Marketing,C010,True,2024-06-30
+L0314,2024-08-04,Isabella,Sanchez,isabella.sanchez@corp143.mx,CEO,Corp143,Consulting,11-50,Costa Rica,Email Marketing,C012,False,
+L0315,2024-06-22,Fernanda,Torres,fernanda.torres@corp143.co,Project Manager,Corp143,Finance,1-10,Argentina,Organic / SEO,C018,True,2024-07-11
+L0316,2024-05-24,Jorge,Lopez,jorge.lopez@corp143.co,Marketing Manager,Corp143,SaaS,1-10,Mexico,LinkedIn Ads,C006,True,2024-06-06
+L0317,2024-04-01,Andres,Ramirez,andres.ramirez@corp143.io,IT Director,Corp143,SaaS,201-500,Mexico,LinkedIn Ads,C007,True,2024-04-26
+L0318,2024-10-12,Fernanda,Hernandez,fernanda.hernandez@corp143.mx,COO,Corp143,HealthTech,51-200,Peru,LinkedIn Ads,C007,False,
+L0319,2024-11-18,Alejandro,Ramirez,alejandro.ramirez@corp143.mx,Founder,Corp143,E-commerce,51-200,Colombia,Google Ads,C001,False,
+L0320,2024-11-25,Roberto,Gonzalez,roberto.gonzalez@corp143.co,Marketing Manager,Corp143,SaaS,51-200,Mexico,Organic / SEO,C020,False,
+L0321,2024-07-11,Miguel,Hernandez,miguel.hernandez@corp143.io,Marketing Manager,Corp143,EdTech,1-10,Spain,LinkedIn Ads,C005,False,
+L0322,2024-09-10,Diego,Ramirez,diego.ramirez@corp143.io,VP of Product,Corp143,Digital Agency,1-10,Spain,Google Ads,C003,False,
+L0323,2024-06-18,Maria,Martinez,maria.martinez@corp143.io,Founder,Corp143,Manufacturing,201-500,Brazil,Google Ads,C002,False,
+L0324,2024-10-27,Valeria,Perez,valeria.perez@corp143.co,CTO,Corp143,Digital Agency,51-200,Chile,LinkedIn Ads,C007,False,
+L0325,2024-04-17,Ricardo,Garcia,ricardo.garcia@corp143.mx,Marketing Manager,Corp143,Digital Agency,11-50,Argentina,Google Ads,C001,False,
+L0326,2024-06-22,Andrea,Ramirez,andrea.ramirez@corp143.io,Marketing Manager,Corp143,E-commerce,11-50,Colombia,Webinar,C014,True,2024-07-17
+L0327,2024-10-11,Juan,Lopez,juan.lopez@corp143.co,COO,Corp143,Digital Agency,11-50,Mexico,Email Marketing,C010,False,
+L0328,2024-05-22,Carlos,Garcia,carlos.garcia@corp143.io,Product Owner,Corp143,EdTech,1-10,Argentina,Webinar,C014,False,
+L0329,2024-04-19,Roberto,Hernandez,roberto.hernandez@corp143.com,CTO,Corp143,E-commerce,1-10,Mexico,Email Marketing,C013,False,
+L0330,2024-10-14,Sofia,Perez,sofia.perez@corp143.com,IT Director,Corp143,E-commerce,51-200,Mexico,Webinar,C015,False,
+L0331,2024-07-03,Juan,Hernandez,juan.hernandez@corp143.co,VP of Product,Corp143,SaaS,11-50,Spain,LinkedIn Ads,C005,False,
+L0332,2024-11-16,Maria,Torres,maria.torres@corp143.com,CEO,Corp143,Consulting,1-10,Mexico,Email Marketing,C013,True,2024-11-25
+L0333,2024-07-31,Juan,Hernandez,juan.hernandez@corp143.mx,Project Manager,Corp143,SaaS,51-200,Argentina,Email Marketing,C011,False,
+L0334,2024-01-15,Ricardo,Gonzalez,ricardo.gonzalez@corp143.com,CEO,Corp143,E-commerce,11-50,Peru,Webinar,C017,True,2024-01-31
+L0335,2024-11-27,Juan,Rodriguez,juan.rodriguez@corp143.com,CTO,Corp143,E-commerce,51-200,Peru,Email Marketing,C013,True,2024-11-28
+L0336,2024-05-05,Juan,Rodriguez,juan.rodriguez@corp143.io,IT Director,Corp143,E-commerce,1-10,Mexico,LinkedIn Ads,C006,False,
+L0337,2024-02-03,Camila,Sanchez,camila.sanchez@corp143.co,Head of Operations,Corp143,SaaS,1-10,Peru,Google Ads,C001,False,
+L0338,2024-06-05,Isabella,Torres,isabella.torres@corp143.mx,COO,Corp143,HealthTech,201-500,Colombia,Google Ads,C002,False,
+L0339,2024-10-14,Alejandro,Sanchez,alejandro.sanchez@corp143.co,CTO,Corp143,Manufacturing,1-10,Peru,Organic / SEO,C018,False,
+L0340,2024-04-01,Camila,Garcia,camila.garcia@corp143.co,IT Director,Corp143,EdTech,201-500,Spain,Google Ads,C001,False,
+L0341,2024-10-28,Maria,Gonzalez,maria.gonzalez@corp143.co,Project Manager,Corp143,Digital Agency,201-500,Colombia,Organic / SEO,C018,False,
+L0342,2024-01-16,Paola,Ramirez,paola.ramirez@corp143.io,Founder,Corp143,SaaS,51-200,Brazil,LinkedIn Ads,C007,False,
+L0344,2024-01-05,Daniela,Ramirez,daniela.ramirez@corp143.mx,COO,Corp143,Manufacturing,500+,Argentina,Webinar,C014,True,2024-02-01
+L0345,2024-11-01,Isabella,Sanchez,isabella.sanchez@corp143.io,CEO,Corp143,Digital Agency,11-50,Colombia,Email Marketing,C011,False,
+L0346,2024-07-26,Valeria,Perez,valeria.perez@corp143.com,Project Manager,Corp143,Digital Agency,11-50,Peru,Email Marketing,C011,False,
+L0348,2024-01-13,Jorge,Gonzalez,jorge.gonzalez@corp143.io,Founder,Corp143,Manufacturing,11-50,Spain,Email Marketing,C012,False,
+L0349,2024-01-24,Juan,Gonzalez,juan.gonzalez@corp143.mx,IT Director,Corp143,HealthTech,11-50,Colombia,LinkedIn Ads,C006,False,
+L0350,2024-07-22,Sofia,Sanchez,sofia.sanchez@corp143.io,CTO,Corp143,Consulting,201-500,Argentina,LinkedIn Ads,C005,False,
+L0351,2024-11-19,Ricardo,Rodriguez,ricardo.rodriguez@corp143.io,Marketing Manager,Corp143,Manufacturing,11-50,Argentina,Webinar,C016,False,
+L0352,2024-05-16,Juan,Ramirez,juan.ramirez@corp143.co,COO,Corp143,Finance,11-50,Mexico,Webinar,C017,False,
+L0353,2024-01-16,Andres,Torres,andres.torres@corp143.mx,Founder,Corp143,Consulting,1-10,Chile,Email Marketing,C010,True,2024-01-19
+L0354,2024-05-03,Isabella,Hernandez,isabella.hernandez@corp143.co,Founder,Corp143,Finance,51-200,Colombia,Email Marketing,C011,True,2024-05-19
+L0355,2024-03-08,Luis,Torres,luis.torres@corp143.co,Product Owner,Corp143,EdTech,51-200,Spain,Email Marketing,C011,False,
+L0356,2024-01-10,Andres,Torres,andres.torres@corp143.com,Head of Operations,Corp143,SaaS,11-50,Mexico,Organic / SEO,C018,False,
+L0357,2024-06-26,Valeria,Sanchez,valeria.sanchez@corp143.mx,CTO,Corp143,Manufacturing,51-200,Colombia,LinkedIn Ads,C008,False,
+L0358,2024-06-30,Jorge,Ramirez,jorge.ramirez@corp143.co,CTO,Corp143,EdTech,500+,Chile,Google Ads,C002,False,
+L0359,2024-01-04,Juan,Gonzalez,juan.gonzalez@corp143.mx,Head of Operations,Corp143,Consulting,51-200,Argentina,Google Ads,C004,False,
+L0360,2024-07-20,Carlos,Garcia,carlos.garcia@corp143.io,COO,Corp143,Finance,1-10,Colombia,Webinar,C017,False,
+L0361,2024-07-25,Luis,Rodriguez,luis.rodriguez@corp143.io,Founder,Corp143,Consulting,51-200,Peru,Email Marketing,C011,True,2024-08-02
+L0362,2024-08-31,Luis,Ramirez,luis.ramirez@corp143.co,Marketing Manager,Corp143,SaaS,11-50,Colombia,Google Ads,C002,True,2024-09-25
+L0363,2024-11-29,Andrea,Garcia,andrea.garcia@corp143.io,IT Director,Corp143,SaaS,1-10,Spain,Google Ads,C003,False,
+L0365,2024-06-27,Sofia,Ramirez,sofia.ramirez@corp143.co,VP of Product,Corp143,EdTech,1-10,Mexico,LinkedIn Ads,C008,True,2024-07-25
+L0366,2024-07-20,Natalia,Lopez,natalia.lopez@corp143.co,VP of Product,Corp143,E-commerce,11-50,Spain,Organic / SEO,C019,False,
+L0367,2024-06-30,Fernanda,Perez,fernanda.perez@corp143.io,CTO,Corp143,HealthTech,11-50,Colombia,Google Ads,C002,False,
+L0368,2024-05-28,Andrea,Rodriguez,andrea.rodriguez@corp143.com,CTO,Corp143,Finance,51-200,Mexico,Google Ads,C004,False,
+L0369,2024-03-27,Paola,Sanchez,paola.sanchez@corp143.com,VP of Product,Corp143,Finance,11-50,Mexico,Email Marketing,C010,False,
+L0370,2024-05-13,Roberto,Hernandez,roberto.hernandez@corp143.com,Product Owner,Corp143,Consulting,201-500,Spain,Organic / SEO,C018,False,
+L0371,2024-10-19,Andrea,Torres,andrea.torres@corp143.mx,Founder,Corp143,EdTech,51-200,Chile,Email Marketing,C011,False,
+L0373,2024-08-23,Carlos,Gonzalez,carlos.gonzalez@corp143.mx,VP of Product,Corp143,Manufacturing,1-10,Mexico,Webinar,C016,False,
+L0374,2024-01-24,Valeria,Perez,valeria.perez@corp143.co,Founder,Corp143,Digital Agency,1-10,Chile,Organic / SEO,C019,False,
+L0375,2024-09-07,Andres,Perez,andres.perez@corp143.co,Founder,Corp143,Manufacturing,11-50,Colombia,Google Ads,C001,False,
+L0376,2024-09-28,Ricardo,Ramirez,ricardo.ramirez@corp143.mx,COO,Corp143,Manufacturing,1-10,Spain,Email Marketing,C009,False,
+L0377,2024-07-04,Daniela,Rodriguez,daniela.rodriguez@corp143.com,IT Director,Corp143,Manufacturing,1-10,Chile,Email Marketing,C011,False,
+L0378,2024-07-18,Luis,Lopez,luis.lopez@corp143.mx,Head of Operations,Corp143,Finance,1-10,Mexico,Google Ads,C001,False,
+L0379,2024-07-03,Maria,Hernandez,maria.hernandez@corp143.com,VP of Product,Corp143,Consulting,1-10,Mexico,Webinar,C015,False,
+L0380,2024-03-12,Ricardo,Hernandez,ricardo.hernandez@corp143.co,IT Director,Corp143,HealthTech,11-50,Brazil,LinkedIn Ads,C005,False,
+L0381,2024-09-27,Fernanda,Gonzalez,fernanda.gonzalez@corp143.com,Project Manager,Corp143,E-commerce,11-50,Chile,LinkedIn Ads,C005,False,
+L0382,2024-09-19,Diego,Ramirez,diego.ramirez@corp143.co,COO,Corp143,HealthTech,11-50,Argentina,Organic / SEO,C018,False,
+L0383,2024-09-23,Isabella,Rodriguez,isabella.rodriguez@corp143.mx,CEO,Corp143,E-commerce,51-200,Argentina,Email Marketing,C009,True,2024-10-01
+L0384,2024-02-04,Carlos,Garcia,carlos.garcia@corp143.io,Project Manager,Corp143,EdTech,51-200,Chile,LinkedIn Ads,C005,False,
+L0385,2024-03-06,Paola,Sanchez,paola.sanchez@corp143.com,Head of Operations,Corp143,EdTech,11-50,Spain,Google Ads,C002,False,
+L0386,2024-01-05,Carlos,Sanchez,carlos.sanchez@corp143.com,VP of Product,Corp143,E-commerce,11-50,Mexico,Google Ads,C001,False,
+L0387,2024-03-14,Juan,Lopez,juan.lopez@corp143.com,Project Manager,Corp143,EdTech,11-50,Mexico,LinkedIn Ads,C008,False,
+L0388,2024-09-17,Diego,Gonzalez,diego.gonzalez@corp143.co,Product Owner,Corp143,E-commerce,1-10,Costa Rica,Organic / SEO,C020,False,
+L0389,2024-04-05,Ricardo,Lopez,ricardo.lopez@corp143.io,COO,Corp143,E-commerce,11-50,Colombia,LinkedIn Ads,C008,False,
+L0390,2024-02-12,Daniela,Garcia,daniela.garcia@corp143.com,Product Owner,Corp143,Digital Agency,201-500,Chile,Organic / SEO,C020,False,
+L0391,2024-04-21,Juan,Garcia,juan.garcia@corp143.co,CEO,Corp143,Consulting,51-200,Chile,Google Ads,C004,True,2024-05-11
+L0392,2024-05-02,Paola,Gonzalez,paola.gonzalez@corp143.com,Project Manager,Corp143,Finance,1-10,Mexico,Organic / SEO,C018,False,
+L0393,2024-03-08,Roberto,Sanchez,roberto.sanchez@corp143.mx,COO,Corp143,Digital Agency,11-50,Chile,Webinar,C014,True,2024-03-26
+L0394,2024-04-30,Paola,Lopez,paola.lopez@corp143.mx,Head of Operations,Corp143,Consulting,51-200,Colombia,Webinar,C014,True,2024-05-12
+L0395,2024-05-14,Carlos,Hernandez,carlos.hernandez@corp143.io,IT Director,Corp143,EdTech,51-200,Mexico,Email Marketing,C011,True,2024-05-25
+L0396,2024-04-15,Roberto,Martinez,roberto.martinez@corp143.mx,Founder,Corp143,Manufacturing,1-10,Colombia,LinkedIn Ads,C005,False,
+L0398,2024-01-31,Natalia,Lopez,natalia.lopez@corp143.mx,CEO,Corp143,Finance,500+,Mexico,LinkedIn Ads,C008,False,
+L0399,2024-03-17,Andrea,Martinez,andrea.martinez@corp143.mx,COO,Corp143,Manufacturing,201-500,Mexico,Email Marketing,C013,True,2024-03-31
+L0400,2024-08-07,Sofia,Martinez,sofia.martinez@corp143.io,Project Manager,Corp143,E-commerce,11-50,Mexico,Organic / SEO,C019,False,
+L0401,2024-09-20,Maria,Perez,maria.perez@corp143.co,IT Director,Corp143,E-commerce,11-50,Argentina,LinkedIn Ads,C008,False,
+L0402,2024-10-18,Maria,Garcia,maria.garcia@corp143.co,Project Manager,Corp143,Manufacturing,1-10,Mexico,Organic / SEO,C018,False,
+L0403,2024-08-29,Camila,Lopez,camila.lopez@corp143.mx,Head of Operations,Corp143,SaaS,201-500,Mexico,Organic / SEO,C018,False,
+L0404,2024-10-11,Paola,Lopez,paola.lopez@corp143.com,Founder,Corp143,SaaS,201-500,Brazil,Google Ads,C001,False,
+L0405,2024-08-26,Andres,Gonzalez,andres.gonzalez@corp143.co,CEO,Corp143,E-commerce,11-50,Colombia,Webinar,C016,False,
+L0406,2024-09-14,Maria,Ramirez,maria.ramirez@corp143.io,COO,Corp143,Digital Agency,11-50,Peru,Organic / SEO,C018,False,
+L0407,2024-01-30,Andrea,Hernandez,andrea.hernandez@corp143.co,CEO,Corp143,Digital Agency,11-50,Chile,LinkedIn Ads,C006,False,
+L0409,2024-04-10,Fernanda,Torres,fernanda.torres@corp143.mx,Product Owner,Corp143,HealthTech,51-200,Spain,Organic / SEO,C019,False,
+L0410,2024-02-04,Miguel,Sanchez,miguel.sanchez@corp143.co,CTO,Corp143,Manufacturing,51-200,Costa Rica,Google Ads,C002,False,
+L0411,2024-08-30,Camila,Perez,camila.perez@corp143.io,CTO,Corp143,Manufacturing,11-50,Mexico,Google Ads,C003,True,2024-09-04
+L0412,2024-05-20,Camila,Hernandez,camila.hernandez@corp143.io,VP of Product,Corp143,SaaS,11-50,Colombia,LinkedIn Ads,C008,True,2024-06-06
+L0413,2024-08-27,Paola,Hernandez,paola.hernandez@corp143.mx,Founder,Corp143,HealthTech,11-50,Mexico,Google Ads,C001,False,
+L0414,2024-11-10,Paola,Gonzalez,paola.gonzalez@corp143.io,VP of Product,Corp143,Digital Agency,201-500,Spain,LinkedIn Ads,C008,False,
+L0416,2024-10-28,Paola,Lopez,paola.lopez@corp143.co,CTO,Corp143,HealthTech,11-50,Colombia,Organic / SEO,C020,False,
+L0418,2024-03-10,Valeria,Lopez,valeria.lopez@corp143.com,CEO,Corp143,HealthTech,51-200,Peru,Email Marketing,C009,True,2024-03-29
+L0420,2024-08-22,Camila,Torres,camila.torres@corp143.co,Product Owner,Corp143,EdTech,500+,Argentina,Webinar,C014,False,
+L0421,2024-04-17,Camila,Martinez,camila.martinez@corp143.co,VP of Product,Corp143,Finance,51-200,Argentina,Email Marketing,C011,False,
+L0422,2024-03-28,Roberto,Ramirez,roberto.ramirez@corp143.io,Product Owner,Corp143,E-commerce,51-200,Colombia,Organic / SEO,C020,False,
+L0424,2024-01-29,Ricardo,Ramirez,ricardo.ramirez@corp143.io,Project Manager,Corp143,EdTech,201-500,Argentina,LinkedIn Ads,C007,False,
+L0425,2024-05-23,Natalia,Rodriguez,natalia.rodriguez@corp143.co,IT Director,Corp143,HealthTech,1-10,Costa Rica,LinkedIn Ads,C007,False,
+L0426,2024-07-10,Ricardo,Lopez,ricardo.lopez@corp143.com,IT Director,Corp143,Digital Agency,1-10,Colombia,Email Marketing,C012,True,2024-08-01
+L0427,2024-02-11,Diego,Sanchez,diego.sanchez@corp143.io,CEO,Corp143,SaaS,1-10,Costa Rica,LinkedIn Ads,C005,False,
+L0429,2024-03-19,Sofia,Lopez,sofia.lopez@corp143.io,Product Owner,Corp143,EdTech,51-200,Peru,Organic / SEO,C018,False,
+L0431,2024-11-14,Isabella,Martinez,isabella.martinez@corp143.io,Founder,Corp143,Digital Agency,51-200,Peru,Webinar,C017,True,2024-11-29
+L0432,2024-05-15,Andres,Torres,andres.torres@corp143.io,Project Manager,Corp143,Digital Agency,1-10,Argentina,LinkedIn Ads,C007,False,
+L0435,2024-08-05,Isabella,Gonzalez,isabella.gonzalez@corp143.mx,Project Manager,Corp143,SaaS,51-200,Mexico,Organic / SEO,C018,False,
+L0436,2024-02-29,Isabella,Ramirez,isabella.ramirez@corp143.mx,IT Director,Corp143,HealthTech,11-50,Mexico,Webinar,C017,False,
+L0437,2024-07-17,Miguel,Sanchez,miguel.sanchez@corp143.com,Founder,Corp143,Digital Agency,1-10,Chile,Google Ads,C004,False,
+L0438,2024-09-13,Maria,Hernandez,maria.hernandez@corp143.co,Marketing Manager,Corp143,SaaS,201-500,Mexico,LinkedIn Ads,C006,False,
+L0439,2024-07-19,Ricardo,Sanchez,ricardo.sanchez@corp143.co,Founder,Corp143,Consulting,11-50,Spain,Google Ads,C002,False,
+L0442,2024-02-22,Alejandro,Lopez,alejandro.lopez@corp143.com,Head of Operations,Corp143,E-commerce,11-50,Colombia,Email Marketing,C011,False,
+L0443,2024-03-23,Miguel,Perez,miguel.perez@corp143.com,IT Director,Corp143,SaaS,11-50,Chile,Google Ads,C004,False,
+L0444,2024-11-16,Sofia,Ramirez,sofia.ramirez@corp143.mx,Project Manager,Corp143,Consulting,51-200,Peru,Email Marketing,C010,False,
+L0445,2024-02-13,Diego,Lopez,diego.lopez@corp143.com,Founder,Corp143,EdTech,11-50,Argentina,Email Marketing,C011,False,
+L0447,2024-09-19,Diego,Ramirez,diego.ramirez@corp143.com,CTO,Corp143,Manufacturing,500+,Mexico,Google Ads,C003,False,
+L0449,2024-06-01,Andrea,Ramirez,andrea.ramirez@corp143.mx,Product Owner,Corp143,Digital Agency,1-10,Mexico,Webinar,C014,False,
+L0450,2024-10-25,Fernanda,Hernandez,fernanda.hernandez@corp143.co,Product Owner,Corp143,E-commerce,51-200,Argentina,Organic / SEO,C020,False,
+L0451,2024-11-26,Maria,Rodriguez,maria.rodriguez@corp143.co,CTO,Corp143,Digital Agency,11-50,Colombia,Google Ads,C001,False,
+L0452,2024-09-15,Camila,Lopez,camila.lopez@corp143.com,CEO,Corp143,E-commerce,201-500,Argentina,Organic / SEO,C020,False,
+L0453,2024-04-29,Jorge,Martinez,jorge.martinez@corp143.com,Founder,Corp143,EdTech,11-50,Peru,Google Ads,C003,False,
+L0455,2024-01-11,Fernanda,Torres,fernanda.torres@corp143.io,CTO,Corp143,HealthTech,1-10,Mexico,LinkedIn Ads,C006,False,
+L0461,2024-10-15,Roberto,Perez,roberto.perez@corp143.co,IT Director,Corp143,Digital Agency,201-500,Peru,Organic / SEO,C020,False,
+L0462,2024-01-15,Ricardo,Sanchez,ricardo.sanchez@corp143.io,VP of Product,Corp143,Digital Agency,11-50,Argentina,Email Marketing,C010,True,2024-01-27
+L0463,2024-09-25,Luis,Sanchez,luis.sanchez@corp143.co,IT Director,Corp143,SaaS,11-50,Mexico,Email Marketing,C013,True,2024-10-08
+L0466,2024-11-18,Miguel,Lopez,miguel.lopez@corp143.mx,Marketing Manager,Corp143,Finance,11-50,Colombia,Email Marketing,C012,False,
+L0468,2024-09-18,Miguel,Perez,miguel.perez@corp143.com,CEO,Corp143,Digital Agency,201-500,Mexico,Email Marketing,C011,False,
+L0469,2024-05-31,Valeria,Perez,valeria.perez@corp143.mx,IT Director,Corp143,Digital Agency,51-200,Mexico,Google Ads,C003,False,
+L0470,2024-09-26,Sofia,Lopez,sofia.lopez@corp143.com,Project Manager,Corp143,EdTech,11-50,Chile,Organic / SEO,C018,False,
+L0473,2024-10-01,Natalia,Hernandez,natalia.hernandez@corp143.com,CTO,Corp143,E-commerce,51-200,Chile,Organic / SEO,C020,False,
+L0474,2024-11-05,Roberto,Ramirez,roberto.ramirez@corp143.com,CEO,Corp143,EdTech,11-50,Spain,LinkedIn Ads,C006,False,
+L0475,2024-08-08,Valeria,Hernandez,valeria.hernandez@corp143.co,Product Owner,Corp143,Digital Agency,11-50,Spain,Organic / SEO,C018,False,
+L0478,2024-02-21,Jorge,Hernandez,jorge.hernandez@corp143.io,CTO,Corp143,EdTech,11-50,Spain,Google Ads,C001,False,
+L0479,2024-06-10,Natalia,Perez,natalia.perez@corp143.com,CEO,Corp143,HealthTech,1-10,Peru,LinkedIn Ads,C008,False,
+L0480,2024-03-02,Camila,Rodriguez,camila.rodriguez@corp143.com,Founder,Corp143,HealthTech,51-200,Chile,Organic / SEO,C020,True,2024-03-23
+L0482,2024-02-28,Alejandro,Hernandez,alejandro.hernandez@corp143.io,COO,Corp143,EdTech,11-50,Peru,Google Ads,C002,False,
+L0483,2024-02-20,Natalia,Torres,natalia.torres@corp143.co,Product Owner,Corp143,E-commerce,51-200,Mexico,LinkedIn Ads,C008,False,
+L0485,2024-02-12,Paola,Garcia,paola.garcia@corp143.mx,CEO,Corp143,Manufacturing,201-500,Costa Rica,Email Marketing,C013,True,2024-02-24
+L0486,2024-02-19,Sofia,Sanchez,sofia.sanchez@corp143.mx,CEO,Corp143,SaaS,201-500,Mexico,Organic / SEO,C018,False,
+L0488,2024-02-02,Miguel,Lopez,miguel.lopez@corp143.io,COO,Corp143,Manufacturing,51-200,Peru,Google Ads,C001,True,2024-02-07
+L0490,2024-07-04,Daniela,Garcia,daniela.garcia@corp143.mx,IT Director,Corp143,Digital Agency,1-10,Argentina,Email Marketing,C009,True,2024-07-23
+L0491,2024-09-19,Roberto,Rodriguez,roberto.rodriguez@corp143.io,COO,Corp143,Manufacturing,51-200,Argentina,Google Ads,C003,False,
+L0492,2024-03-15,Andres,Garcia,andres.garcia@corp143.com,Marketing Manager,Corp143,E-commerce,51-200,Spain,Organic / SEO,C018,False,
+L0493,2024-08-26,Maria,Hernandez,maria.hernandez@corp143.co,Founder,Corp143,Finance,51-200,Peru,LinkedIn Ads,C008,False,
+L0494,2024-02-25,Jorge,Perez,jorge.perez@corp143.io,Project Manager,Corp143,E-commerce,51-200,Chile,Organic / SEO,C018,True,2024-03-17
+L0495,2024-03-21,Fernanda,Torres,fernanda.torres@corp143.mx,IT Director,Corp143,Manufacturing,51-200,Argentina,Email Marketing,C010,False,
+L0496,2024-01-09,Maria,Hernandez,maria.hernandez@corp143.io,CEO,Corp143,E-commerce,51-200,Colombia,LinkedIn Ads,C007,False,
+L0498,2024-05-10,Roberto,Ramirez,roberto.ramirez@corp143.io,IT Director,Corp143,Digital Agency,201-500,Spain,Google Ads,C002,False,
+L0499,2024-09-19,Valeria,Sanchez,valeria.sanchez@corp143.com,VP of Product,Corp143,Digital Agency,51-200,Mexico,Email Marketing,C012,True,2024-09-22
+L0500,2024-02-28,Andrea,Perez,andrea.perez@corp143.co,Marketing Manager,Corp143,E-commerce,11-50,Mexico,LinkedIn Ads,C007,False,
+L0501,2024-04-14,Maria,Gonzalez,maria.gonzalez@corp143.com,COO,Corp143,Finance,11-50,Peru,Organic / SEO,C018,False,
+L0502,2024-10-09,Carlos,Gonzalez,carlos.gonzalez@corp143.io,COO,Corp143,Consulting,11-50,Argentina,Email Marketing,C010,False,
+L0503,2024-08-08,Valeria,Garcia,valeria.garcia@corp143.mx,IT Director,Corp143,Manufacturing,51-200,Mexico,Email Marketing,C012,False,
+L0504,2024-09-06,Juan,Torres,juan.torres@corp143.mx,Marketing Manager,Corp143,SaaS,1-10,Mexico,Google Ads,C001,False,
+L0506,2024-11-04,Paola,Martinez,paola.martinez@corp143.co,Project Manager,Corp143,Manufacturing,1-10,Argentina,Organic / SEO,C019,False,
+L0512,2024-02-23,Jorge,Lopez,jorge.lopez@corp143.com,CTO,Corp143,Finance,51-200,Mexico,Webinar,C015,True,2024-02-27
+L0513,2024-03-09,Alejandro,Hernandez,alejandro.hernandez@corp143.mx,COO,Corp143,Consulting,51-200,Spain,Webinar,C017,False,
+L0516,2024-04-05,Fernanda,Perez,fernanda.perez@corp143.co,IT Director,Corp143,Digital Agency,51-200,Spain,Email Marketing,C013,True,2024-04-27
+L0517,2024-01-21,Paola,Rodriguez,paola.rodriguez@corp143.io,VP of Product,Corp143,Finance,1-10,Argentina,Google Ads,C002,True,2024-02-12
+L0518,2024-07-18,Sofia,Rodriguez,sofia.rodriguez@corp143.co,IT Director,Corp143,Manufacturing,11-50,Chile,Webinar,C014,True,2024-07-28
+L0519,2024-08-25,Andrea,Torres,andrea.torres@corp143.io,CEO,Corp143,Consulting,51-200,Mexico,LinkedIn Ads,C006,False,
+L0521,2024-05-07,Andrea,Gonzalez,andrea.gonzalez@corp143.mx,CTO,Corp143,SaaS,201-500,Argentina,Email Marketing,C013,True,2024-05-28
+L0522,2024-04-16,Andrea,Lopez,andrea.lopez@corp143.mx,Marketing Manager,Corp143,SaaS,11-50,Spain,LinkedIn Ads,C008,False,
+L0523,2024-04-25,Natalia,Martinez,natalia.martinez@corp143.io,Project Manager,Corp143,Finance,1-10,Mexico,Google Ads,C003,False,
+L0526,2024-02-26,Natalia,Ramirez,natalia.ramirez@corp143.io,CEO,Corp143,E-commerce,11-50,Chile,Email Marketing,C011,True,2024-03-05
+L0528,2024-08-19,Natalia,Hernandez,natalia.hernandez@corp143.com,IT Director,Corp143,Digital Agency,500+,Mexico,Google Ads,C003,False,
+L0529,2024-10-04,Ricardo,Ramirez,ricardo.ramirez@corp143.io,Head of Operations,Corp143,Manufacturing,11-50,Mexico,Organic / SEO,C018,True,2024-10-25
+L0530,2024-11-04,Isabella,Ramirez,isabella.ramirez@corp143.co,Marketing Manager,Corp143,HealthTech,51-200,Mexico,LinkedIn Ads,C005,False,
+L0534,2024-08-02,Juan,Garcia,juan.garcia@corp143.com,VP of Product,Corp143,E-commerce,51-200,Mexico,Email Marketing,C011,True,2024-08-31
+L0536,2024-07-23,Natalia,Torres,natalia.torres@corp143.co,Founder,Corp143,Consulting,51-200,Argentina,Organic / SEO,C020,False,
+L0538,2024-08-05,Maria,Perez,maria.perez@corp143.io,CTO,Corp143,Digital Agency,1-10,Brazil,Organic / SEO,C018,False,
+L0539,2024-03-12,Fernanda,Hernandez,fernanda.hernandez@corp143.co,Marketing Manager,Corp143,Digital Agency,51-200,Mexico,Email Marketing,C009,False,
+L0542,2024-02-01,Valeria,Gonzalez,valeria.gonzalez@corp143.io,Founder,Corp143,E-commerce,11-50,Spain,Google Ads,C004,False,
+L0543,2024-01-28,Andrea,Gonzalez,andrea.gonzalez@corp143.io,COO,Corp143,E-commerce,11-50,Mexico,Google Ads,C001,False,
+L0545,2024-10-03,Isabella,Gonzalez,isabella.gonzalez@corp143.io,Founder,Corp143,Digital Agency,11-50,Colombia,Organic / SEO,C020,False,
+L0548,2024-01-19,Ricardo,Ramirez,ricardo.ramirez@corp143.com,Marketing Manager,Corp143,HealthTech,201-500,Mexico,Webinar,C014,False,
+L0549,2024-08-30,Jorge,Perez,jorge.perez@corp143.com,CEO,Corp143,HealthTech,201-500,Chile,LinkedIn Ads,C006,True,2024-09-23

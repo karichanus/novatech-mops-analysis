@@ -1,0 +1,151 @@
+account_id,account_name,industry,employee_count,country,plan,mrr_usd,customer_since,total_revenue_usd
+A0001,Smart Solutions,Digital Agency,51-200,Spain,Growth,151.5,2023-10-09,2121.0
+A0002,Nova Group,Consulting,11-50,Argentina,Enterprise,425.08,2024-03-08,3825.72
+A0003,Next Systems,E-commerce,11-50,Mexico,Starter,49.0,2024-10-27,98.0
+A0004,Core Digital,EdTech,1-10,Brazil,Enterprise,626.64,2023-06-13,11279.52
+A0005,Peak Digital,EdTech,51-200,Spain,Starter,49.0,2023-04-10,1029.0
+A0006,Alpha Hub,EdTech,51-200,Argentina,Growth,246.31,2024-01-23,2709.41
+A0007,Nova Solutions,EdTech,500+,Chile,Enterprise,572.21,2023-03-13,12016.41
+A0008,Peak Studio,HealthTech,11-50,Spain,Enterprise,513.04,2024-04-09,4104.32
+A0009,Eco Studio,E-commerce,1-10,Colombia,Growth,217.35,2023-03-15,4564.35
+A0010,Smart Digital,SaaS,11-50,Mexico,Enterprise,591.0,2024-07-24,2955.0
+A0011,Eco Digital,E-commerce,51-200,Colombia,Starter,49.0,2023-08-05,833.0
+A0012,Blue Solutions,EdTech,51-200,Colombia,Enterprise,536.66,2023-09-29,8049.9
+A0013,Next Agency,Consulting,51-200,Chile,Growth,185.2,2023-05-22,3518.8
+A0014,Eco Labs,Manufacturing,11-50,Costa Rica,Starter,49.0,2024-03-08,441.0
+A0015,Fast Digital,Consulting,11-50,Mexico,Growth,246.11,2023-01-12,5660.53
+A0016,Next Studio,Consulting,201-500,Mexico,Starter,49.0,2023-09-27,735.0
+A0017,Next Hub,SaaS,51-200,Argentina,Growth,209.9,2023-06-06,3988.1
+A0018,Smart Group,E-commerce,201-500,Brazil,Starter,49.0,2023-11-11,637.0
+A0019,Blue Agency,Digital Agency,11-50,Peru,Starter,49.0,2023-03-12,1078.0
+A0020,Smart Tech,Manufacturing,500+,Spain,Starter,49.0,2024-07-06,245.0
+A0021,Alpha Digital,SaaS,51-200,Mexico,Starter,49.0,2023-05-04,980.0
+A0022,Alpha Group,HealthTech,1-10,Mexico,Starter,49.0,2024-10-08,98.0
+A0023,Eco Works,Finance,11-50,Colombia,Growth,170.42,2023-05-16,3237.98
+A0024,Peak Systems,Manufacturing,11-50,Spain,Starter,49.0,2024-03-17,441.0
+A0025,Nova Systems,HealthTech,51-200,Mexico,Growth,247.42,2023-04-11,5195.82
+A0026,Core Studio,EdTech,11-50,Peru,Starter,49.0,2023-05-24,931.0
+A0027,Next Group,Consulting,201-500,Chile,Starter,49.0,2024-07-17,245.0
+A0028,Core Group,Digital Agency,11-50,Costa Rica,Starter,49.0,2023-08-07,833.0
+A0029,Fast Systems,Finance,1-10,Mexico,Starter,49.0,2024-04-10,392.0
+A0030,Nova Digital,SaaS,1-10,Colombia,Enterprise,572.75,2024-07-09,2863.75
+A0031,Next Labs,Digital Agency,1-10,Mexico,Enterprise,558.34,2023-02-28,12283.48
+A0032,Smart Works,SaaS,51-200,Colombia,Enterprise,520.13,2024-08-06,2080.52
+A0033,Fast Agency,HealthTech,201-500,Peru,Growth,201.28,2023-09-25,3019.2
+A0034,Alpha Labs,E-commerce,11-50,Mexico,Starter,49.0,2024-07-30,245.0
+A0035,Peak Tech,Digital Agency,11-50,Argentina,Starter,49.0,2023-09-08,784.0
+A0036,Next Tech,Consulting,201-500,Mexico,Starter,49.0,2024-10-31,98.0
+A0037,Blue Tech,EdTech,51-200,Spain,Starter,49.0,2024-07-20,245.0
+A0038,Fast Group,Consulting,51-200,Chile,Starter,49.0,2023-09-28,735.0
+A0039,Fast Studio,Finance,51-200,Colombia,Starter,49.0,2023-05-14,931.0
+A0040,Peak Works,Digital Agency,11-50,Mexico,Starter,49.0,2023-06-02,931.0
+A0041,Peak Solutions,E-commerce,51-200,Colombia,Starter,49.0,2023-02-10,1127.0
+A0042,Blue Studio,Manufacturing,1-10,Spain,Growth,236.47,2024-09-27,709.41
+A0043,Alpha Systems,SaaS,201-500,Mexico,Starter,49.0,2023-09-12,735.0
+A0044,Fast Labs,EdTech,11-50,Argentina,Growth,195.03,2023-11-09,2535.39
+A0045,Nova Labs,EdTech,1-10,Brazil,Growth,233.37,2023-12-06,3033.81
+A0046,Core Works,Consulting,11-50,Argentina,Starter,49.0,2024-03-20,441.0
+A0047,Core Labs,HealthTech,51-200,Spain,Starter,49.0,2023-01-02,1176.0
+A0048,Fast Hub,Digital Agency,1-10,Spain,Starter,49.0,2024-06-03,343.0
+A0049,Fast Tech,E-commerce,11-50,Argentina,Starter,49.0,2023-06-28,882.0
+A0050,Smart Hub,Finance,51-200,Brazil,Growth,195.5,2024-03-28,1759.5
+A0051,Next Works,HealthTech,1-10,Brazil,Growth,214.89,2023-10-18,3008.46
+A0052,Blue Group,SaaS,11-50,Colombia,Starter,49.0,2023-07-23,833.0
+A0053,Eco Solutions,Manufacturing,11-50,Mexico,Growth,156.28,2024-02-29,1562.8
+A0054,Core Solutions,Digital Agency,51-200,Spain,Growth,149.55,2023-04-20,2991.0
+A0055,Bright Studio,Finance,51-200,Costa Rica,Starter,49.0,2023-05-05,980.0
+A0056,Eco Hub,Manufacturing,201-500,Argentina,Growth,244.0,2024-03-29,2196.0
+A0057,Bright Tech,E-commerce,201-500,Mexico,Enterprise,622.1,2024-05-01,4976.8
+A0058,Alpha Tech,E-commerce,11-50,Colombia,Growth,197.46,2023-09-02,3159.36
+A0059,Smart Labs,Manufacturing,11-50,Argentina,Growth,162.84,2023-08-25,2605.44
+A0060,Nova Works,Manufacturing,11-50,Brazil,Starter,49.0,2024-03-06,490.0
+A0061,Bright Solutions,EdTech,11-50,Mexico,Starter,49.0,2024-03-05,490.0
+A0062,Blue Works,SaaS,201-500,Argentina,Starter,49.0,2024-02-19,490.0
+A0063,Bright Digital,HealthTech,51-200,Colombia,Growth,157.39,2024-03-14,1416.51
+A0064,Alpha Agency,SaaS,51-200,Mexico,Growth,232.19,2023-09-16,3482.85
+A0065,Alpha Works,E-commerce,11-50,Mexico,Enterprise,466.27,2023-03-12,10257.94
+A0066,Nova Tech,Manufacturing,11-50,Spain,Starter,49.0,2023-04-28,980.0
+A0067,Fast Works,Consulting,51-200,Argentina,Starter,49.0,2024-10-04,98.0
+A0068,Peak Group,Manufacturing,51-200,Mexico,Starter,49.0,2024-01-15,539.0
+A0069,Blue Systems,Digital Agency,51-200,Brazil,Enterprise,589.68,2024-04-15,4717.44
+A0070,Bright Agency,Manufacturing,51-200,Argentina,Starter,49.0,2024-07-05,245.0
+A0071,Smart Agency,Manufacturing,11-50,Argentina,Starter,49.0,2023-03-30,1029.0
+A0072,Nova Hub,E-commerce,1-10,Spain,Starter,49.0,2023-12-30,588.0
+A0073,Fast Solutions,Manufacturing,51-200,Colombia,Starter,49.0,2024-05-02,392.0
+A0074,Next Digital,HealthTech,51-200,Mexico,Growth,196.33,2024-06-27,1177.98
+A0075,Peak Labs,Digital Agency,1-10,Spain,Starter,49.0,2023-07-17,833.0
+A0076,Eco Tech,Consulting,201-500,Mexico,Starter,49.0,2024-06-21,294.0
+A0077,Core Agency,Consulting,51-200,Spain,Starter,49.0,2024-06-30,294.0
+A0078,Alpha Solutions,Consulting,51-200,Colombia,Starter,49.0,2023-11-08,637.0
+A0079,Eco Systems,EdTech,51-200,Mexico,Growth,210.84,2024-06-19,1265.04
+A0080,Alpha Studio,E-commerce,1-10,Mexico,Enterprise,428.77,2023-08-01,7289.09
+A0081,Bright Labs,E-commerce,201-500,Chile,Starter,49.0,2024-08-31,196.0
+A0082,Next Solutions,Digital Agency,201-500,Chile,Growth,215.12,2023-07-22,3657.04
+A0083,Eco Group,Manufacturing,51-200,Argentina,Starter,49.0,2023-11-11,637.0
+A0084,Nova Studio,Finance,11-50,Colombia,Starter,49.0,2024-08-12,196.0
+A0085,Blue Digital,Manufacturing,51-200,Mexico,Starter,49.0,2024-03-22,441.0
+A0086,Nova Agency,Consulting,11-50,Colombia,Enterprise,643.07,2024-07-17,3215.35
+A0087,Bright Systems,SaaS,1-10,Colombia,Enterprise,520.25,2024-06-10,3121.5
+A0088,Smart Studio,EdTech,51-200,Argentina,Growth,211.54,2023-02-22,4653.88
+A0089,Blue Labs,EdTech,51-200,Chile,Starter,49.0,2023-04-27,980.0
+A0090,Eco Agency,Digital Agency,11-50,Argentina,Starter,49.0,2023-10-01,735.0
+A0091,Smart Systems,SaaS,11-50,Colombia,Starter,49.0,2024-01-22,539.0
+A0092,Peak Agency,SaaS,51-200,Mexico,Enterprise,513.37,2024-10-29,1026.74
+A0093,Bright Works,Digital Agency,11-50,Spain,Growth,177.74,2023-08-21,2843.84
+A0094,Core Tech,Finance,201-500,Mexico,Starter,49.0,2024-04-21,392.0
+A0095,Bright Group,HealthTech,51-200,Mexico,Starter,49.0,2023-08-31,784.0
+A0096,Peak Hub,Manufacturing,51-200,Spain,Starter,49.0,2023-06-29,882.0
+A0097,Blue Hub,EdTech,51-200,Mexico,Enterprise,595.48,2024-05-16,4168.36
+A0098,Core Hub,Consulting,51-200,Colombia,Enterprise,438.54,2024-01-02,5262.48
+A0099,Bright Hub,E-commerce,201-500,Mexico,Growth,200.32,2023-04-22,4006.4
+A0100,Core Systems,Consulting,11-50,Colombia,Growth,235.7,2024-06-17,1414.2
+A0101,Company100,Manufacturing,11-50,Mexico,Starter,49.0,2024-04-30,392.0
+A0102,Company100,SaaS,1-10,Colombia,Growth,206.67,2023-03-20,4340.07
+A0103,Company100,HealthTech,1-10,Mexico,Growth,157.33,2023-09-26,2359.95
+A0104,Company100,E-commerce,11-50,Peru,Growth,207.34,2023-08-16,3317.44
+A0105,Company100,Manufacturing,51-200,Argentina,Growth,242.55,2024-01-19,2668.05
+A0106,Company100,Digital Agency,11-50,Mexico,Enterprise,458.57,2024-08-15,1834.28
+A0107,Company100,Manufacturing,11-50,Spain,Starter,49.0,2023-05-21,931.0
+A0108,Company100,Digital Agency,1-10,Argentina,Enterprise,400.42,2023-09-04,6406.72
+A0109,Company100,E-commerce,51-200,Mexico,Starter,49.0,2024-06-11,294.0
+A0110,Company100,Manufacturing,51-200,Mexico,Growth,230.64,2023-05-17,4382.16
+A0111,Company100,Finance,1-10,Mexico,Growth,209.8,2023-06-25,3776.4
+A0112,Company100,Manufacturing,1-10,Mexico,Growth,167.4,2023-03-06,3682.8
+A0113,Company100,SaaS,201-500,Brazil,Starter,49.0,2023-04-19,980.0
+A0114,Company100,Manufacturing,1-10,Chile,Growth,188.86,2023-06-04,3588.34
+A0115,Company100,HealthTech,51-200,Mexico,Starter,49.0,2023-03-26,1029.0
+A0116,Company100,Manufacturing,11-50,Chile,Starter,49.0,2023-06-20,882.0
+A0117,Company100,E-commerce,11-50,Argentina,Starter,49.0,2023-05-18,931.0
+A0118,Company100,Digital Agency,51-200,Spain,Starter,49.0,2023-02-23,1078.0
+A0119,Company100,EdTech,11-50,Argentina,Starter,49.0,2024-10-28,98.0
+A0120,Company100,Consulting,51-200,Peru,Starter,49.0,2024-09-29,147.0
+A0121,Company100,Finance,201-500,Argentina,Starter,49.0,2024-03-10,441.0
+A0122,Company100,Digital Agency,11-50,Colombia,Starter,49.0,2023-09-13,735.0
+A0123,Company100,HealthTech,201-500,Spain,Starter,49.0,2023-07-06,882.0
+A0124,Company100,Digital Agency,51-200,Argentina,Starter,49.0,2024-08-13,196.0
+A0125,Company100,Digital Agency,51-200,Mexico,Growth,178.49,2023-10-22,2498.86
+A0126,Company100,E-commerce,11-50,Colombia,Starter,49.0,2023-03-17,1029.0
+A0127,Company100,EdTech,1-10,Chile,Starter,49.0,2024-01-20,539.0
+A0128,Company100,Finance,51-200,Costa Rica,Starter,49.0,2023-11-12,637.0
+A0129,Company100,EdTech,51-200,Mexico,Enterprise,655.46,2024-08-16,2621.84
+A0130,Company100,SaaS,1-10,Brazil,Starter,49.0,2023-04-08,1029.0
+A0131,Company100,Finance,51-200,Argentina,Growth,197.4,2024-09-09,592.2
+A0132,Company100,Finance,1-10,Colombia,Growth,199.79,2023-01-16,4595.17
+A0133,Company100,EdTech,11-50,Chile,Starter,49.0,2024-02-06,490.0
+A0134,Company100,Digital Agency,11-50,Chile,Starter,49.0,2023-06-04,931.0
+A0135,Company100,Consulting,11-50,Colombia,Enterprise,437.82,2024-02-04,4816.02
+A0136,Company100,Consulting,11-50,Colombia,Starter,49.0,2024-06-21,294.0
+A0137,Company100,Manufacturing,1-10,Mexico,Growth,192.03,2023-09-04,3072.48
+A0138,Company100,HealthTech,51-200,Mexico,Starter,49.0,2023-01-21,1127.0
+A0139,Company100,HealthTech,11-50,Mexico,Starter,49.0,2024-05-08,343.0
+A0140,Company100,SaaS,11-50,Colombia,Starter,49.0,2024-08-05,196.0
+A0141,Company100,Finance,201-500,Mexico,Starter,49.0,2023-11-28,637.0
+A0142,Company100,Consulting,11-50,Mexico,Starter,49.0,2023-08-24,784.0
+A0143,Company100,HealthTech,1-10,Colombia,Growth,158.18,2024-04-22,1265.44
+A0144,Company100,EdTech,1-10,Argentina,Starter,49.0,2024-02-14,490.0
+A0145,Company100,Manufacturing,11-50,Peru,Growth,209.92,2023-10-01,3148.8
+A0146,Company100,SaaS,11-50,Mexico,Enterprise,473.72,2023-03-22,9948.12
+A0147,Company100,Manufacturing,201-500,Costa Rica,Starter,49.0,2024-05-20,343.0
+A0148,Company100,Consulting,201-500,Chile,Starter,49.0,2024-03-03,490.0
+A0149,Company100,Finance,11-50,Mexico,Growth,153.76,2023-08-18,2460.16
+A0150,Company100,Finance,201-500,Argentina,Growth,160.14,2023-07-04,2882.52
